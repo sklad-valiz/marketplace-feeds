@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-13T14:52:26.688Z">
+  <shop>
+    <categories>
+      <category id="1061" portal_id="2273">
+        Валізи
+      </category>
+    </categories>
+    <offers>
+      <offer id="7898-M-Champagne" available="true">
+        <quantity_in_stock>
+          5
+        </quantity_in_stock>
+        <name_ru>
+          Чемодан с расширением Carbon 7898 средний 67л шампань (7898-M-Champagne)
+        </name_ru>
+        <name_ua>
+          Валіза з розширенням Carbon 7898 середня 67л шампань (7898-M-Champagne)
+        </name_ua>
+        <price>
+          2950
+        </price>
+        <categoryId>
+          1061
+        </categoryId>
+        <vendor>
+          Carbon
+        </vendor>
+        <country>
+          Україна
+        </country>
+        <description_ru>
+          Чемодан с расширением Carbon 7898 средний 67л шампань (7898-M-Champagne)
+        </description_ru>
+        <description_ua>
+          Валіза з розширенням Carbon 7898 в розмірі L - це максимально місткий та надійний варіант великого об&amp;rsquo;єму, який ідеально підходить для тривалих відпусток, тривалих сімейних подорожей або переїздів. Модель розрахована на здачу в багажне відділення авіалайнерів, пропонуючи мандрівникам бездоганний баланс між колосальним корисним простором та продуманою ергономікою.Виготовлений зі 100% поліпропілену, корпус має виняткову гнучкість та міцність: він стійкий до сильних механічних ударів і не тріскається під великими навантаженнями, навіть якщо внутрішній простір заповнений не повністю. Валіза обладнана чотирма подвійними поліуретановими колесами зі плавним обертанням на 360°, що забезпечує абсолютно безшумний рух на будь-яких поверхнях. Додаткові верхня та бічна ручки, а також алюмінієва висувна ручка дозволяють комфортно переносити та котити важкий багаж. Безпеку ваших речей гарантують вологозахищена блискавка, стійка до злому, та інтегрований кодовий замок TSA з функцією митного огляду. Внутрішній простір ергономічно розділений на два глибокі відділи з тканинною перегородкою та еластичними компресійними ременями для надійної фіксації одягу. Головною перевагою моделі є наявність додаткового розширення, що дозволяє суттєво збільшити об&amp;#39;єм. Рекомендована вага завантаження становить до 28 кг.
+        </description_ua>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/66043054967016_+abba0f33af.jpg
+        </picture>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/23506708443799_+98a6903412.jpg
+        </picture>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/92719029357614_+1619c4f6f4.jpg
+        </picture>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/47863524980668_+977de288f8.jpg
+        </picture>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/70219894396432_+7aac47f702.jpg
+        </picture>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/50603749689649_+a2926b3638.jpg
+        </picture>
+        <picture>
+          https://sklad-valiz.com.ua/content/images/28/63312488232534_+ce0027641a.jpg
+        </picture>
+        <param name="Колір" value_id="113608">
+          Шампань
+        </param>
+        <param name="Колір" value_id="110935">
+          Бежевий
+        </param>
+        <param name="Тип" value_id="166327">
+          Валізи
+        </param>
+        <param name="Матеріал корпусу" value_id="166452">
+          Поліпропілен
+        </param>
+        <param name="Об&apos;єм" value_id="166382">
+          67 л
+        </param>
+        <param name="Стать" value_id="166335">
+          Унісекс
+        </param>
+        <param name="Вбудований замок" value_id="166433">
+          Кодовий
+        </param>
+        <param name="Наявність розширення" value_id="166429">
+          Є
+        </param>
+        <param name="Об&apos;єм" value_id="166426">
+          Середні (50 – 89.9 л)
+        </param>
+        <param name="Висота" value_id="204177">
+          66 см
+        </param>
+        <param name="Ширина" value_id="203932">
+          44 см
+        </param>
+        <param name="Глибина" value_id="204250">
+          28 см
+        </param>
+        <param name="Вага" value_id="166509">
+          3 кг
+        </param>
+        <param name="Тип закриття" value_id="166431">
+          На блискавці
+        </param>
+        <param name="Корпус" value_id="166340">
+          Жорсткий
+        </param>
+        <param name="Матеріал коліс" value_id="166438">
+          Поліуретан
+        </param>
+        <param name="Кількість коліс" value_id="166437">
+          4 шт
+        </param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
