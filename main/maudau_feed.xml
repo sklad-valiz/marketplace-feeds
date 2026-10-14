@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-14T09:44:50.254Z">
+<yml_catalog date="2026-10-14T10:46:38.132Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -2783,7 +2783,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="131-L-Beige" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
         <name_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
         <price>1870</price>
@@ -6972,35 +6972,6 @@
         <param name="Ширина" value_id="166446">48 см</param>
         <param name="Глибина" value_id="203872">30 см</param>
         <param name="Вага" value_id="166520">4 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
-      <offer id="2011-Set-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Набор чемоданов из поликарбоната Wings 2011 4 в 1 шампань (2011-Set-Champagne)</name_ru>
-        <name_ua>Набір валіз з полікарбонату Wings 2011 4 в 1 шампань (2011-Set-Champagne)</name_ua>
-        <price>6450</price>
-        <old_price>7400</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Набор чемоданов из поликарбоната Wings 2011 4 в 1 шампань (2011-Set-Champagne)</description_ru>
-        <description_ua>Набір валіз з полікарбонату Wings 2011 4 в 1 шампань (2011-Set-Champagne)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-60396730853328_+a88e7be130.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-85203370083434_+a2ed61b53d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-94246307370004_+8c274a437e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-84683294561917_+f90a6c287f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-48189897090780_+4d0c7318ed.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-88562285733574_+026cb304fc.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-63790299697625_+b121c3df43.jpg</picture>
-        <param name="Колір" value_id="110935">Бежевий</param>
-        <param name="Тип" value_id="166330">Набори валіз</param>
-        <param name="Матеріал корпусу" value_id="166450">Полікарбонат</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166429">Є</param>
         <param name="Тип закриття" value_id="166431">На блискавці</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
@@ -14473,6 +14444,35 @@
         <param name="Ширина" value_id="204215">43 см</param>
         <param name="Глибина" value_id="204245">26 см</param>
         <param name="Вага" value_id="166509">3 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="2011-Set-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов из поликарбоната Wings 2011 4 в 1 шампань (2011-Set-Champagne)</name_ru>
+        <name_ua>Набір валіз з полікарбонату Wings 2011 4 в 1 шампань (2011-Set-Champagne)</name_ua>
+        <price>6450</price>
+        <old_price>7400</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов из поликарбоната Wings 2011 4 в 1 шампань (2011-Set-Champagne)</description_ru>
+        <description_ua>Набір валіз з полікарбонату Wings 2011 4 в 1 шампань (2011-Set-Champagne)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-60396730853328_+a88e7be130.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-85203370083434_+a2ed61b53d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-94246307370004_+8c274a437e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-84683294561917_+f90a6c287f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-48189897090780_+4d0c7318ed.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-88562285733574_+026cb304fc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polikarbonatu-wings-2011-4-v-1-shampan-2011-set-champagne-63790299697625_+b121c3df43.jpg</picture>
+        <param name="Колір" value_id="110935">Бежевий</param>
+        <param name="Тип" value_id="166330">Набори валіз</param>
+        <param name="Матеріал корпусу" value_id="166450">Полікарбонат</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166429">Є</param>
         <param name="Тип закриття" value_id="166431">На блискавці</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
