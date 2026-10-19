@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-18T23:07:39.373Z">
+<yml_catalog date="2026-10-19T23:07:32.776Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -569,7 +569,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="53103-M-Gray" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л серый (53103-M-Gray)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л сіра (53103-M-Gray)</name_ua>
         <price>2350</price>
@@ -2656,7 +2656,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="131-L-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с полипропилена Fashion 131 большой 92л черный (131-L-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Fashion 131 велика 92л чорна (131-L-Black)</name_ua>
         <price>2200</price>
@@ -2673,41 +2673,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-62585434793385_+fd2d0d00ea.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-22269094630570_+632c43c7a5.jpg</picture>
         <param name="Колір" value_id="111010">Чорний</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
-        <param name="Об'єм" value_id="166400">92 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166427">Великі (90 - 100 л)</param>
-        <param name="Висота" value_id="204187">75 см</param>
-        <param name="Ширина" value_id="204220">46 см</param>
-        <param name="Глибина" value_id="203872">30 см</param>
-        <param name="Вага" value_id="166520">4 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
-      <offer id="131-L-Beige" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
-        <name_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
-        <price>1870</price>
-        <old_price>2200</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</description_ru>
-        <description_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-80450677549921_+574a8b8f91.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-68931981246707_+60e65c38f3.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-51257255310402_+8d67dcdc60.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-50879182783183_+bdaa8455d7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-28565549778606_+38edab29c7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-75151168200595_+b77f12e593.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-62894692045327_+1c53c9e244.jpg</picture>
-        <param name="Колір" value_id="110935">Бежевий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
         <param name="Об'єм" value_id="166400">92 л</param>
@@ -7244,30 +7209,6 @@
         <param name="Корпус сумки" value_id="165393">Жорсткий</param>
         <param name="Розміри" value_id="165701">45 x 33 x 18 см</param>
       </offer>
-      <offer id="4001-S-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Дорожня сумка Kaiman 4001 13л синяя (4001-S-Blue)</name_ru>
-        <name_ua>Дорожня сумка Kaiman 4001 13л синя (4001-S-Blue)</name_ua>
-        <price>530</price>
-        <categoryId>1087</categoryId>
-        <vendor>Kaiman</vendor>
-        <country>Китай</country>
-        <description_ru>Дорожня сумка Kaiman 4001 13л синяя (4001-S-Blue)</description_ru>
-        <description_ua>Дорожня сумка Kaiman 4001 13л синя (4001-S-Blue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-30308966098666_+1f59590ab1.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-41733683194405_+d575f99ecf.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-44342388566843_+2b19f6df2a.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-28711730757847_+9835a6b1fa.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-21668777638202_+ccb8cd47a2.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-64476771012330_+da9fdf0f5b.jpeg</picture>
-        <param name="Колір" value_id="436">Синій</param>
-        <param name="Тип" value_id="165299">Сумки-валізи</param>
-        <param name="Об'єм" value_id="165382">5 - 14 л</param>
-        <param name="Об'єм" value_id="529837">13 л</param>
-        <param name="Стать" value_id="165302">Унісекс</param>
-        <param name="Корпус сумки" value_id="165393">Жорсткий</param>
-        <param name="Розміри" value_id="165701">45 x 33 x 18 см</param>
-      </offer>
       <offer id="17505-M-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Дорожная сумка Catesigo 17505 средняя 33л черная (17505-M-Black)</name_ru>
@@ -7763,29 +7704,32 @@
         <param name="Корпус сумки" value_id="165393">Жорсткий</param>
         <param name="Розміри" value_id="165701">45 x 33 x 18 см</param>
       </offer>
-      <offer id="5398-M-RoseGold-ABS" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Wings 5398 средний 63л розовое золото (5398-M-RoseGold-ABS)</name_ru>
-        <name_ua>Валіза Wings 5398 середня 63л рожеве золото (5398-M-RoseGold-ABS)</name_ua>
-        <price>1850</price>
+      <offer id="PHX01-S-Dark-green" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</name_ua>
+        <price>1700</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан Wings 5398 средний 63л розовое золото (5398-M-RoseGold-ABS)</description_ru>
-        <description_ua>Валіза Wings 5398 середня 63л рожеве золото (5398-M-RoseGold-ABS)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-wings-5398-serednia-63l-rozheve-zoloto-5398-m-rosegold-abs-87571790991235_+23cbeaf02c.jpg</picture>
-        <param name="Колір" value_id="110967">Золотий з рожевим</param>
+        <description_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22313676240787_+d8d29de678.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22792356780381_+a1cb5ceba0.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-26334356903541_+83502fb8d8.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-50276455161657_+8c0111cb1b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-32444609878424_+fcf5d18a92.png</picture>
+        <param name="Колір" value_id="110964">Зелений</param>
         <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
-        <param name="Об'єм" value_id="166378">63 л</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Об'єм" value_id="166358">39 л</param>
         <param name="Стать" value_id="166335">Унісекс</param>
         <param name="Вбудований замок" value_id="166433">Кодовий</param>
         <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
-        <param name="Висота" value_id="204177">66 см</param>
-        <param name="Ширина" value_id="203932">44 см</param>
-        <param name="Глибина" value_id="204245">26 см</param>
-        <param name="Вага" value_id="166509">3 кг</param>
+        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
+        <param name="Висота" value_id="204168">56 см</param>
+        <param name="Ширина" value_id="204212">41 см</param>
+        <param name="Глибина" value_id="203858">22 см</param>
         <param name="Тип закриття" value_id="166431">На блискавці</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
@@ -12055,6 +11999,41 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
+      <offer id="131-L-Beige" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
+        <name_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
+        <price>1870</price>
+        <old_price>2200</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</description_ru>
+        <description_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-80450677549921_+574a8b8f91.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-68931981246707_+60e65c38f3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-51257255310402_+8d67dcdc60.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-50879182783183_+bdaa8455d7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-28565549778606_+38edab29c7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-75151168200595_+b77f12e593.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-62894692045327_+1c53c9e244.jpg</picture>
+        <param name="Колір" value_id="110935">Бежевий</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Об'єм" value_id="166400">92 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166427">Великі (90 - 100 л)</param>
+        <param name="Висота" value_id="204187">75 см</param>
+        <param name="Ширина" value_id="204220">46 см</param>
+        <param name="Глибина" value_id="203872">30 см</param>
+        <param name="Вага" value_id="166520">4 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
       <offer id="42203-S-LightBlue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Madisson 42203 малый 39л голубой (42203-S-LightBlue)</name_ru>
@@ -14443,6 +14422,30 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
+      <offer id="4001-S-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Дорожня сумка Kaiman 4001 13л синяя (4001-S-Blue)</name_ru>
+        <name_ua>Дорожня сумка Kaiman 4001 13л синя (4001-S-Blue)</name_ua>
+        <price>530</price>
+        <categoryId>1087</categoryId>
+        <vendor>Kaiman</vendor>
+        <country>Китай</country>
+        <description_ru>Дорожня сумка Kaiman 4001 13л синяя (4001-S-Blue)</description_ru>
+        <description_ua>Дорожня сумка Kaiman 4001 13л синя (4001-S-Blue)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-30308966098666_+1f59590ab1.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-41733683194405_+d575f99ecf.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-44342388566843_+2b19f6df2a.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-28711730757847_+9835a6b1fa.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-21668777638202_+ccb8cd47a2.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-64476771012330_+da9fdf0f5b.jpeg</picture>
+        <param name="Колір" value_id="436">Синій</param>
+        <param name="Тип" value_id="165299">Сумки-валізи</param>
+        <param name="Об'єм" value_id="165382">5 - 14 л</param>
+        <param name="Об'єм" value_id="529837">13 л</param>
+        <param name="Стать" value_id="165302">Унісекс</param>
+        <param name="Корпус сумки" value_id="165393">Жорсткий</param>
+        <param name="Розміри" value_id="165701">45 x 33 x 18 см</param>
+      </offer>
       <offer id="33703-L-Black" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name_ru>
@@ -14479,7 +14482,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="33703-L-Champagne" available="true">
-        <quantity_in_stock>19</quantity_in_stock>
+        <quantity_in_stock>18</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л шампань (33703-L-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л шампань (33703-L-Champagne)</name_ua>
         <price>2678</price>
@@ -16334,7 +16337,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="33703-S-Black" available="true">
-        <quantity_in_stock>32</quantity_in_stock>
+        <quantity_in_stock>30</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л черный (33703-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л чорна (33703-S-Black)</name_ua>
         <price>1725</price>
@@ -16404,7 +16407,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="33703-S-Grey" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л серый (33703-S-Grey)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л сіра (33703-S-Grey)</name_ua>
         <price>2300</price>
@@ -18987,6 +18990,34 @@
         <param name="Ширина" value_id="204226">50 см</param>
         <param name="Глибина" value_id="203872">30 см</param>
         <param name="Вага" value_id="166520">4 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="5398-M-RoseGold-ABS" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан Wings 5398 средний 63л розовое золото (5398-M-RoseGold-ABS)</name_ru>
+        <name_ua>Валіза Wings 5398 середня 63л рожеве золото (5398-M-RoseGold-ABS)</name_ua>
+        <price>1850</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан Wings 5398 средний 63л розовое золото (5398-M-RoseGold-ABS)</description_ru>
+        <description_ua>Валіза Wings 5398 середня 63л рожеве золото (5398-M-RoseGold-ABS)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-wings-5398-serednia-63l-rozheve-zoloto-5398-m-rosegold-abs-87571790991235_+23cbeaf02c.jpg</picture>
+        <param name="Колір" value_id="110967">Золотий з рожевим</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
+        <param name="Об'єм" value_id="166378">63 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
+        <param name="Висота" value_id="204177">66 см</param>
+        <param name="Ширина" value_id="203932">44 см</param>
+        <param name="Глибина" value_id="204245">26 см</param>
+        <param name="Вага" value_id="166509">3 кг</param>
         <param name="Тип закриття" value_id="166431">На блискавці</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
