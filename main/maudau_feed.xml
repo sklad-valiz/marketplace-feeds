@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-19T23:07:32.776Z">
+<yml_catalog date="2026-10-20T23:07:35.920Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -8,34 +8,6 @@
       <category id="1086" portal_id="2474">Дорожні аксесуари</category>
     </categories>
     <offers>
-      <offer id="5398-S-RoseGold-ABS" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
-        <name_ru>Чемодан Wings 5398 малый 38л розовое золото (5398-S-RoseGold-ABS)</name_ru>
-        <name_ua>Валіза Wings 5398 мала 38л рожеве золото (5398-S-RoseGold-ABS)</name_ua>
-        <price>1400</price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан Wings 5398 малый 38л розовое золото (5398-S-RoseGold-ABS)</description_ru>
-        <description_ua>Валіза Wings 5398 мала 38л рожеве золото (5398-S-RoseGold-ABS)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/23/valiza-wings-5398-mala-38l-rozheve-zoloto-5398-s-rosegold-abs-89815082937349_+8128c54755.jpg</picture>
-        <param name="Колір" value_id="110967">Золотий з рожевим</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
-        <param name="Об'єм" value_id="166357">38 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
-        <param name="Висота" value_id="204168">56 см</param>
-        <param name="Ширина" value_id="203854">38 см</param>
-        <param name="Глибина" value_id="203858">22 см</param>
-        <param name="Вага" value_id="166509">3 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
       <offer id="53103-S-Blue" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л синий (53103-S-Blue)</name_ru>
@@ -228,7 +200,7 @@
         <param name="Розміри" value_id="165716">70 x 45 x 22 см</param>
       </offer>
       <offer id="2501-L-Blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 большой 97л синий (2501-L-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 велика 97л синя (2501-L-Blue)</name_ua>
         <price>3100</price>
@@ -399,7 +371,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="2501-S-Grey" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 малый 38л серый (2501-S-Grey)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 мала 38л сіра (2501-S-Grey)</name_ua>
         <price>1360</price>
@@ -665,34 +637,6 @@
         <param name="Ширина" value_id="204209">39 см</param>
         <param name="Глибина" value_id="204241">21 см</param>
         <param name="Вага" value_id="166509">3 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
-      <offer id="Kaiman-XS-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фиолетовый (Kaiman-XS-Purple)</name_ru>
-        <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фіолетовий (Kaiman-XS-Purple)</name_ua>
-        <price>1700</price>
-        <categoryId>1061</categoryId>
-        <vendor>Kaiman</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фиолетовый (Kaiman-XS-Purple)</description_ru>
-        <description_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фіолетовий (Kaiman-XS-Purple)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-35360218469749_+12bdaf2fd6.png</picture>
-        <param name="Колір" value_id="110957">Бузковий</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
-        <param name="Об'єм" value_id="525129">24 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
-        <param name="Висота" value_id="525135">40 см</param>
-        <param name="Ширина" value_id="204201">30 см</param>
-        <param name="Глибина" value_id="204238">20 см</param>
-        <param name="Вага" value_id="166496">2 кг</param>
         <param name="Тип закриття" value_id="166431">На блискавці</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
@@ -1579,7 +1523,7 @@
         <param name="Застібка" value_id="167747">Блискавка</param>
       </offer>
       <offer id="53103-Set-Gray" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 серый (53103-Set-Gray)</name_ru>
         <name_ua>Набір валіз з поліпропілену Madisson 53103 3 в 1 сірий (53103-Set-Gray)</name_ua>
         <price>5625</price>
@@ -7706,14 +7650,14 @@
       </offer>
       <offer id="PHX01-S-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</name_ru>
-        <name_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</name_ua>
+        <name_ru>Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</name_ua>
         <price>1700</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</description_ru>
-        <description_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</description_ua>
+        <description_ru>Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22313676240787_+d8d29de678.png</picture>
         <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22792356780381_+a1cb5ceba0.png</picture>
         <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-26334356903541_+83502fb8d8.png</picture>
@@ -7735,30 +7679,52 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
-      <offer id="5398-XS-RoseGold-ABS" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Wings 5398 мини 28л розовое золото (5398-XS-RoseGold-ABS)</name_ru>
-        <name_ua>Валіза Wings 5398 міні 28л рожеве золото (5398-XS-RoseGold-ABS)</name_ua>
-        <price>1100</price>
+      <offer id="PHX01-M-Dark-green" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Wings PHX01 средний 39л темно-зеленый (PHX01-М-Dark-green)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 середня 39л темно-зелена (PHX01-М-Dark-green)</name_ua>
+        <price>2200</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан Wings 5398 мини 28л розовое золото (5398-XS-RoseGold-ABS)</description_ru>
-        <description_ua>Валіза Wings 5398 міні 28л рожеве золото (5398-XS-RoseGold-ABS)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/24/valiza-wings-5398-mini-28l-rozheve-zoloto-5398-xs-rosegold-abs-87681707083329_+f7f9e04616.jpg</picture>
-        <param name="Колір" value_id="110967">Золотий з рожевим</param>
+        <description_ru>Чемодан из полипропилена Wings PHX01 средний 39л темно-зеленый (PHX01-М-Dark-green)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 середня 39л темно-зелена (PHX01-М-Dark-green)</description_ua>
+        <param name="Колір" value_id="110964">Зелений</param>
         <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
-        <param name="Об'єм" value_id="166345">28 л</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Об'єм" value_id="166375">60 л</param>
         <param name="Стать" value_id="166335">Унісекс</param>
         <param name="Вбудований замок" value_id="166433">Кодовий</param>
         <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
-        <param name="Висота" value_id="204160">51 см</param>
-        <param name="Ширина" value_id="204204">34 см</param>
-        <param name="Глибина" value_id="204238">20 см</param>
-        <param name="Вага" value_id="166509">3 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
+        <param name="Висота" value_id="204175">65 см</param>
+        <param name="Ширина" value_id="204215">43 см</param>
+        <param name="Глибина" value_id="204245">26 см</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="PHX01-L-Dark-green" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</name_ua>
+        <price>2300</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</description_ua>
+        <param name="Колір" value_id="110964">Зелений</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Об'єм" value_id="166402">95 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166427">Великі (90 - 100 л)</param>
+        <param name="Висота" value_id="204189">76 см</param>
+        <param name="Ширина" value_id="204226">50 см</param>
+        <param name="Глибина" value_id="203872">30 см</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
@@ -8702,6 +8668,34 @@
         <description_ua>Валіза для лоукосту Wizzair Kaiman міні 24л світло-блакитний (Kaiman-XS-Light-blue)</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-46714409942572_+cafb8947b5.png</picture>
         <param name="Колір" value_id="110947">Блакитний</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
+        <param name="Об'єм" value_id="525129">24 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
+        <param name="Висота" value_id="525135">40 см</param>
+        <param name="Ширина" value_id="204201">30 см</param>
+        <param name="Глибина" value_id="204238">20 см</param>
+        <param name="Вага" value_id="166496">2 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="Kaiman-XS-Purple" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фиолетовый (Kaiman-XS-Purple)</name_ru>
+        <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фіолетовий (Kaiman-XS-Purple)</name_ua>
+        <price>1700</price>
+        <categoryId>1061</categoryId>
+        <vendor>Kaiman</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фиолетовый (Kaiman-XS-Purple)</description_ru>
+        <description_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фіолетовий (Kaiman-XS-Purple)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-35360218469749_+12bdaf2fd6.png</picture>
+        <param name="Колір" value_id="110957">Бузковий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
         <param name="Об'єм" value_id="525129">24 л</param>
@@ -19017,6 +19011,62 @@
         <param name="Висота" value_id="204177">66 см</param>
         <param name="Ширина" value_id="203932">44 см</param>
         <param name="Глибина" value_id="204245">26 см</param>
+        <param name="Вага" value_id="166509">3 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="5398-S-RoseGold-ABS" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Чемодан Wings 5398 малый 38л розовое золото (5398-S-RoseGold-ABS)</name_ru>
+        <name_ua>Валіза Wings 5398 мала 38л рожеве золото (5398-S-RoseGold-ABS)</name_ua>
+        <price>1400</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан Wings 5398 малый 38л розовое золото (5398-S-RoseGold-ABS)</description_ru>
+        <description_ua>Валіза Wings 5398 мала 38л рожеве золото (5398-S-RoseGold-ABS)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/23/valiza-wings-5398-mala-38l-rozheve-zoloto-5398-s-rosegold-abs-89815082937349_+8128c54755.jpg</picture>
+        <param name="Колір" value_id="110967">Золотий з рожевим</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
+        <param name="Об'єм" value_id="166357">38 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
+        <param name="Висота" value_id="204168">56 см</param>
+        <param name="Ширина" value_id="203854">38 см</param>
+        <param name="Глибина" value_id="203858">22 см</param>
+        <param name="Вага" value_id="166509">3 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="5398-XS-RoseGold-ABS" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан Wings 5398 мини 28л розовое золото (5398-XS-RoseGold-ABS)</name_ru>
+        <name_ua>Валіза Wings 5398 міні 28л рожеве золото (5398-XS-RoseGold-ABS)</name_ua>
+        <price>1100</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан Wings 5398 мини 28л розовое золото (5398-XS-RoseGold-ABS)</description_ru>
+        <description_ua>Валіза Wings 5398 міні 28л рожеве золото (5398-XS-RoseGold-ABS)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/24/valiza-wings-5398-mini-28l-rozheve-zoloto-5398-xs-rosegold-abs-87681707083329_+f7f9e04616.jpg</picture>
+        <param name="Колір" value_id="110967">Золотий з рожевим</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
+        <param name="Об'єм" value_id="166345">28 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
+        <param name="Висота" value_id="204160">51 см</param>
+        <param name="Ширина" value_id="204204">34 см</param>
+        <param name="Глибина" value_id="204238">20 см</param>
         <param name="Вага" value_id="166509">3 кг</param>
         <param name="Тип закриття" value_id="166431">На блискавці</param>
         <param name="Корпус" value_id="166340">Жорсткий</param>
