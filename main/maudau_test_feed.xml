@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-02T14:41:15.377Z">
+  <shop>
+    <categories>
+      <category id="1061" portal_id="2273">Валізи</category>
+    </categories>
+    <offers>
+      <offer id="PHX01-L-Yellow" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</name_ua>
+        <price>2300</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польша</country>
+        <description_ru>Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-17974009006468_+161f40ad75.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-48495822403725_+382f1c8d8e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-16842061751486_+80985a979e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-49857673589693_+bed15caae9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-58002444158493_+7d6f59a9cb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-82680221109897_+b4f55c49cd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-55312648237167_+26aa90f0ed.jpg</picture>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166427">Великі (90 - 100 л)</param>
+        <param name="Висота" value_id="204187">75 см</param>
+        <param name="Ширина" value_id="166446">48 см</param>
+        <param name="Глибина" value_id="203872">30 см</param>
+        <param name="Вага" value_id="166520">4 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
+
