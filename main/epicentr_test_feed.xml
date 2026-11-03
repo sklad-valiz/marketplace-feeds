@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-03 20:05">
+<yml_catalog date="2026-11-03 20:14">
   <offers>
     <offer id="HIMAWARI-XS-Gray-mint" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name>
       <price>1495</price>
-      <category code="1598">Рюкзаки</category>
-      <attribute_set code="1598">Рюкзаки</attribute_set>
+      <category code="1598">Міські рюкзаки</category>
+      <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
       <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description>
       <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</description>
