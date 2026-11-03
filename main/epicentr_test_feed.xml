@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-03 11:56">
+<yml_catalog date="2026-11-03 14:46">
   <offers>
     <offer id="HIMAWARI-XS-Gray-mint" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name>
       <price>1495</price>
-      <category code="2929">Рюкзаки</category>
-      <attribute_set code="2929">Рюкзаки</attribute_set>
+      <category code="6791">Рюкзаки</category>
+      <attribute_set code="6791">Рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
       <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description>
       <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</description>
@@ -46,8 +46,8 @@
       <name lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</name>
       <name lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</name>
       <price>2300</price>
-      <category code="2454">Валізи</category>
-      <attribute_set code="2454">Валізи</attribute_set>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
       <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</description>
       <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</description>
@@ -99,8 +99,8 @@
       <name lang="ru">Дорожная сумка Catesigo 17505 средняя 33л синяя (17505-M-Blue)</name>
       <name lang="ua">Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</name>
       <price>880</price>
-      <category code="3657">Дорожні сумки</category>
-      <attribute_set code="3657">Дорожні сумки</attribute_set>
+      <category code="7302">Дорожні сумки</category>
+      <attribute_set code="7302">Дорожні сумки</attribute_set>
       <description lang="ru">Дорожная сумка Catesigo 17505 средняя 33л синяя (17505-M-Blue)</description>
       <description lang="ua">Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-47624896296966_+9f520ab83a.jpeg</picture>
@@ -130,8 +130,8 @@
       <name lang="ru">Чехол для чемодана дайвинг электрик DPC-Elektryk-S</name>
       <name lang="ua">Чохол для валізи дайвінг електрик DPC-Elektryk-S</name>
       <price>500</price>
-      <category code="704">Аксесуари до рюкзаків та сумок</category>
-      <attribute_set code="704">Аксесуари до рюкзаків та сумок</attribute_set>
+      <category code="1333">Аксесуари до рюкзаків та сумок</category>
+      <attribute_set code="1333">Аксесуари до рюкзаків та сумок</attribute_set>
       <description lang="ru">Чехол для чемодана дайвинг электрик DPC-Elektryk-S</description>
       <description lang="ua">Чохол для валізи дайвінг електрик DPC-Elektryk-S</description>
       <picture>https://sklad-valiz.com.ua/content/images/33/12512986833153_+55ea4418a6.jpg</picture>
