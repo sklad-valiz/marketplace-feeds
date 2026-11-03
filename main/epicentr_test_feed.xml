@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-03 11:56">
+  <offers>
+    <offer id="HIMAWARI-XS-Gray-mint" available="true">
+      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name>
+      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name>
+      <price>1495</price>
+      <category code="2929">Рюкзаки</category>
+      <attribute_set code="2929">Рюкзаки</attribute_set>
+      <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
+      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description>
+      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-65888016525829_+0e8407df02.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-22621539249153_+48be7201ee.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-44320782054616_+5cacc0db0a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-13449436387652_+db8641eaea.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-84485117905640_+f662fe54e7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-55264289776894_+3c69d35ba0.jpg</picture>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Вид" paramcode="4699" valuecode="f61ed5486b5460f42cd060d856882c68">міський</param>
+      <param name="Вид" paramcode="51" valuecode="la8khnywvscqhwse">рюкзак</param>
+      <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+      <param name="Тип" paramcode="50" valuecode="sp4oz32gowpkmxvj">рюкзак</param>
+      <param name="Матеріал" paramcode="4326" valuecode="9d698900cd7fadddaab47dab597220c3">нейлон</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51348e">поліамід</param>
+      <param name="Об'єм" paramcode="104">17</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Висота" paramcode="110">40</param>
+      <param name="Ширина" paramcode="111">27</param>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</param>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Вага упаковки" paramcode="weight">1000</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Бренд" paramcode="brand" valuecode="18a78cd2c2a54e6098c6d71d04117011">Himawari</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+      <weight>1000</weight>
+      <height>400</height>
+      <width>270</width>
+    </offer>
+    <offer id="PHX01-L-Yellow" available="true">
+      <name lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</name>
+      <name lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</name>
+      <price>2300</price>
+      <category code="2454">Валізи</category>
+      <attribute_set code="2454">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-17974009006468_+161f40ad75.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-48495822403725_+382f1c8d8e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-16842061751486_+80985a979e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-49857673589693_+bed15caae9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-58002444158493_+7d6f59a9cb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-82680221109897_+b4f55c49cd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-55312648237167_+26aa90f0ed.jpg</picture>
+      <param name="Базовий колір" paramcode="12097" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c">жовтий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Об'єм" paramcode="104">95</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Вікова група" paramcode="2868" valuecode="09857ba2f81d8a7fd4370e2f2114abc6">для дорослих</param>
+      <param name="Особливості" paramcode="2860">телескопічна</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Висота" paramcode="110">75</param>
+      <param name="Ширина" paramcode="111">48</param>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Вага" paramcode="10301">4</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Корпус" paramcode="16677" valuecode="7538c2fd4cb361d02b463bc26ca1d35f">твердий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Габаритний розмір" paramcode="1476">49x29x74</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Опис" paramcode="description">Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Вага упаковки" paramcode="weight">1000</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+      <param name="Бренд" paramcode="brand" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <weight>1000</weight>
+      <height>750</height>
+      <width>480</width>
+      <length>300</length>
+    </offer>
+    <offer id="17505-M-Blue" available="true">
+      <name lang="ru">Дорожная сумка Catesigo 17505 средняя 33л синяя (17505-M-Blue)</name>
+      <name lang="ua">Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</name>
+      <price>880</price>
+      <category code="3657">Дорожні сумки</category>
+      <attribute_set code="3657">Дорожні сумки</attribute_set>
+      <description lang="ru">Дорожная сумка Catesigo 17505 средняя 33л синяя (17505-M-Blue)</description>
+      <description lang="ua">Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-47624896296966_+9f520ab83a.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-50844293407383_+76a896247d.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-52000552108251_+4b99f6733d.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-25218348128479_+704efb491b.jpeg</picture>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Тип" paramcode="50" valuecode="b9c8356e2537afb5f8c41b7905f80b03">сумка</param>
+      <param name="Вид" paramcode="51" valuecode="59474de50e43b">сумка дорожня</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
+      <param name="Матеріал" paramcode="2780">Нейлон</param>
+      <param name="Об'єм" paramcode="6863">33</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Розмір" paramcode="5106">Середній</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Опис" paramcode="description">Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</param>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Вага упаковки" paramcode="weight">1000</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+      <weight>1000</weight>
+    </offer>
+    <offer id="DPC-Elektryk-S" available="true">
+      <name lang="ru">Чехол для чемодана дайвинг электрик DPC-Elektryk-S</name>
+      <name lang="ua">Чохол для валізи дайвінг електрик DPC-Elektryk-S</name>
+      <price>500</price>
+      <category code="704">Аксесуари до рюкзаків та сумок</category>
+      <attribute_set code="704">Аксесуари до рюкзаків та сумок</attribute_set>
+      <description lang="ru">Чехол для чемодана дайвинг электрик DPC-Elektryk-S</description>
+      <description lang="ua">Чохол для валізи дайвінг електрик DPC-Elektryk-S</description>
+      <picture>https://sklad-valiz.com.ua/content/images/33/12512986833153_+55ea4418a6.jpg</picture>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Матеріал" paramcode="4326" valuecode="65875220c155f64d02e00130116c2d76">поліестер</param>
+      <param name="Матеріал виробу" paramcode="4328" valuecode="859119cb03374cefc72d8fd0aa9769b1">тканина</param>
+      <param name="Довжина" paramcode="2470">45</param>
+      <param name="Ширина" paramcode="111">35</param>
+      <param name="Глибина" paramcode="112">18</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Вага упаковки" paramcode="weight">1</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Опис" paramcode="description">Чохол для валізи дайвінг електрик DPC-Elektryk-S</param>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <weight>1</weight>
+      <width>350</width>
+      <length>180</length>
+    </offer>
+  </offers>
+</yml_catalog>
+
