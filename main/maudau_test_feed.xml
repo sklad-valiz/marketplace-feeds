@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-02T17:06:33.770Z">
+<yml_catalog date="2026-11-03T09:11:57.778Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -12,7 +12,7 @@
         <price>2300</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
-        <country>Польша</country>
+        <country>Польща</country>
         <description_ru>Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</description_ru>
         <description_ua>Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-17974009006468_+161f40ad75.jpg</picture>
@@ -22,8 +22,7 @@
         <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-58002444158493_+7d6f59a9cb.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-82680221109897_+b4f55c49cd.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-55312648237167_+26aa90f0ed.jpg</picture>
-        <param name="Колір (multiselect)" value_id="429">Жовтий</param>
-        <param name="Колір (singleselect)" value_id="110960">Жовтий</param>
+        <param name="Колір" value_id="110960">Жовтий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
         <param name="Об'єм" value_id="166402">95 л</param>
