@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-03T09:28:12.792Z">
+<yml_catalog date="2026-11-04T01:28:03.852Z">
   <shop>
     <categories>
       <category id="1089" portal_id="2279">Рюкзаки</category>
@@ -30,6 +30,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Gray-mint" available="true">
         <quantity_in_stock>5</quantity_in_stock>
@@ -52,6 +53,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue-Beige" available="true">
         <quantity_in_stock>7</quantity_in_stock>
@@ -71,6 +73,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Beige" available="true">
         <quantity_in_stock>7</quantity_in_stock>
@@ -90,6 +93,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="SKU402-BC-Beige" available="true">
         <quantity_in_stock>3</quantity_in_stock>
@@ -1334,6 +1338,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue" available="true">
         <quantity_in_stock>4</quantity_in_stock>
@@ -1351,6 +1356,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="22103-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -1373,6 +1379,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="53103-Set-Gray" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -2439,6 +2446,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="1010-Yellow" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -4328,6 +4336,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="15108-XS-Beige" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -4350,6 +4359,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167672">16 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="15108-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -4372,6 +4382,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167672">16 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="355-1-XS-Black" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -4388,6 +4399,7 @@
         <param name="Матеріал" value_id="167784">Оксфорд</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="340-2-XS-Beige" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -4404,6 +4416,7 @@
         <param name="Матеріал" value_id="167788">Текстиль</param>
         <param name="Об'єм" value_id="167694">32 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Bange-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -4420,6 +4433,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167682">22 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="48448-BC-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6403,6 +6417,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="GoldBe-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6424,6 +6439,7 @@
         <param name="Матеріал" value_id="167788">Текстиль</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="GoldBe-XS-Khaki" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -6445,6 +6461,7 @@
         <param name="Матеріал" value_id="167788">Текстиль</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Ozuko-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6467,6 +6484,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Ozuko-XS-Grey" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6489,6 +6507,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="809-1-XS-Black" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -6511,6 +6530,7 @@
         <param name="Матеріал" value_id="167788">Текстиль</param>
         <param name="Об'єм" value_id="167684">23 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="PHX01-Set-Yellow" available="true">
         <quantity_in_stock>4</quantity_in_stock>
@@ -6796,6 +6816,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Eliot-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6817,6 +6838,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167682">22 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Techno-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6838,6 +6860,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167676">18 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Explorer-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6859,6 +6882,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Skin-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6880,6 +6904,7 @@
         <param name="Матеріал" value_id="167789">Штучна шкіра</param>
         <param name="Об'єм" value_id="167687">26 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Compact-XS-Black" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -6901,6 +6926,7 @@
         <param name="Матеріал" value_id="167789">Штучна шкіра</param>
         <param name="Об'єм" value_id="167677">19 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="T-B9121-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6922,6 +6948,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167663">11 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="T-B3893-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6943,6 +6970,7 @@
         <param name="Матеріал" value_id="167784">Оксфорд</param>
         <param name="Об'єм" value_id="167680">21 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="T-B3331A-XS-Grey" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6964,6 +6992,7 @@
         <param name="Матеріал" value_id="167784">Оксфорд</param>
         <param name="Об'єм" value_id="167672">16 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="T-B3905-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -6985,6 +7014,7 @@
         <param name="Матеріал" value_id="167784">Оксфорд</param>
         <param name="Об'єм" value_id="167692">30 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="131-Set-Black" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -7518,6 +7548,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="090-Grey" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -7540,6 +7571,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="8774-Pink" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -8195,6 +8227,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="402520-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8212,6 +8245,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="402520-XS-Khaki" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8229,6 +8263,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="4522-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8245,6 +8280,7 @@
         <param name="Матеріал" value_id="167784">Оксфорд</param>
         <param name="Об'єм" value_id="167687">26 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Leon-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8265,6 +8301,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Leon-XS-Grey" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8285,6 +8322,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Bagland-XS-Blue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8305,6 +8343,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Bagland-XS-Grey" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -8325,6 +8364,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="44603-L-White" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -9743,6 +9783,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167692">30 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Bear-XS-Green" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -9764,6 +9805,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167692">30 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="MINIMAL-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -9785,6 +9827,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167692">30 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="MINIMAL-XS-Beige" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -9806,6 +9849,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167692">30 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="42203-S-Purple" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10727,6 +10771,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="TL096339-20-XS-Blue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10748,6 +10793,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167665">12 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="359-1-XS-DarkBlue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10769,6 +10815,7 @@
         <param name="Матеріал" value_id="167788">Текстиль</param>
         <param name="Об'єм" value_id="167674">17 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="22124-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10790,6 +10837,7 @@
         <param name="Матеріал" value_id="167784">Оксфорд</param>
         <param name="Об'єм" value_id="167682">22 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="53103-Set-Purple" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14161,6 +14209,7 @@
         <param name="Колір" value_id="434">Бежевий</param>
         <param name="Вид" value_id="167635">Міські</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="89019-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14174,6 +14223,7 @@
         <param name="Колір" value_id="435">Чорний</param>
         <param name="Вид" value_id="167635">Міські</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Catesigo-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14190,6 +14240,7 @@
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167696">34 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="65803-Set-Gray" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14235,6 +14286,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="JBBP336-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14256,6 +14308,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="7898-M-Gray" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14507,6 +14560,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="JBBP285-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14529,6 +14583,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167679">20 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="Grant-XS-Grey" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -14551,6 +14606,7 @@
         <param name="Матеріал" value_id="167786">Поліестер</param>
         <param name="Об'єм" value_id="167697">35 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="2011-Set-Champagne" available="false">
         <quantity_in_stock>0</quantity_in_stock>
