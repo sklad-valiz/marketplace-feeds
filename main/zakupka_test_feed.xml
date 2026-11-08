@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-11-08 22:19">
+<shop>
+<name>SKLAD VALIZ</name>
+<company>SKLAD VALIZ</company>
+<url>https://sklad-valiz.com.ua</url>
+<platform>Zakupka.com</platform>
+<agency>Google Apps Script</agency>
+<email>info@sklad-valiz.com.ua</email>
+<categories>
+<category id="10855">Дорожні сумки, валізи</category>
+<category id="5030">Рюкзаки міські</category>
+<category id="21377">Чохли та накидки для рюкзаків і валіз</category>
+</categories>
+<offers>
+<offer id="1196" available="true" portalid="10855">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow/</url>
+<price>2300</price>
+<currencyId>UAH</currencyId>
+<categoryId>10855</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-17974009006468_+161f40ad75.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-48495822403725_+382f1c8d8e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-16842061751486_+80985a979e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-49857673589693_+bed15caae9.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-58002444158493_+7d6f59a9cb.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-82680221109897_+b4f55c49cd.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-zhovta-phx01-l-yellow-55312648237167_+26aa90f0ed.jpg</picture>
+<name>Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</name_ua>
+<vendorCode>PHX01-L-Yellow</vendorCode>
+<vendor>Wings</vendor>
+<country_of_origin>Польща</country_of_origin>
+<description><![CDATA[Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)]]></description>
+<description_ua><![CDATA[Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)]]></description_ua>
+<param name="Цвет">жовтий</param>
+<param name="Тип">чемодан</param>
+<param name="Материал">поліпропілен</param>
+<param name="Объём, л" unit="л">95</param>
+<param name="Половозрастная категория">унісекс</param>
+<param name="Замок">кодовий замок</param>
+<param name="Размер">великий</param>
+<param name="Корпус">жорсткий</param>
+<param name="Количество отделений">2</param>
+<param name="Принт">без принта</param>
+<param name="Особенности цвета">інше</param>
+<param name="Состояние">новий</param>
+<dimensions>30/75/48</dimensions>
+</offer>
+<offer id="986" available="true" portalid="5030">
+<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red/</url>
+<price>1595</price>
+<currencyId>UAH</currencyId>
+<categoryId>5030</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red-70280970195137_+973a14fece.jpg</picture>
+<name>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name>
+<name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
+<vendorCode>HIMAWARI-XS-Red</vendorCode>
+<vendor>HIMAWARI</vendor>
+<country_of_origin>Японія</country_of_origin>
+<description><![CDATA[Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)]]></description>
+<description_ua><![CDATA[Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)]]></description_ua>
+<param name="Цвет">червоний</param>
+<param name="Назначение">міський</param>
+<param name="Материал">нейлон</param>
+<param name="Объём, л" unit="л">17</param>
+<param name="Пол">унісекс</param>
+<param name="Конструкция">м&apos;який (без елементів жорсткості)</param>
+<param name="Принт">без принта</param>
+<param name="Особенности цвета">інше</param>
+<param name="Состояние">новий</param>
+<dimensions>17/39/25</dimensions>
+</offer>
+<offer id="983" available="true" portalid="10855">
+<url>https://sklad-valiz.com.ua/sumka-dlia-ruchnoi-poklazhi-snowball-41403s-mala-13l-sira-41403s-gray/</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>10855</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/34/sumka-dlia-ruchnoi-poklazhi-snowball-41403s-mala-13l-sira-41403s-gray-28589247123665_+0d47467cc1.jpg</picture>
+<name>Сумка для ручной клади Snowball 41403S малая 13л серая (41403S-Gray)</name>
+<name_ua>Сумка для ручної поклажі Snowball 41403S мала 13л сіра (41403S-Gray)</name_ua>
+<vendorCode>41403S-Gray</vendorCode>
+<vendor>Snowball</vendor>
+<country_of_origin>Франція</country_of_origin>
+<description><![CDATA[Сумка для ручной клади Snowball 41403S малая 13л серая (41403S-Gray)]]></description>
+<description_ua><![CDATA[Сумка для ручної поклажі Snowball 41403S мала 13л сіра (41403S-Gray)]]></description_ua>
+<param name="Цвет">сірий</param>
+<param name="Тип">дорожня сумка</param>
+<param name="Материал">нейлон</param>
+<param name="Объём, л" unit="л">13</param>
+<param name="Половозрастная категория">унісекс</param>
+<param name="Размер">маленький</param>
+<param name="Корпус">м&apos;який</param>
+<param name="Количество отделений">2</param>
+<param name="Принт">без принта</param>
+<param name="Особенности цвета">інше</param>
+<param name="Состояние">новий</param>
+<dimensions>15/28/31</dimensions>
+</offer>
+<offer id="642" available="true" portalid="21377">
+<url>https://sklad-valiz.com.ua/chokhol-dlia-valizy-neopren-npc-jeans-m/</url>
+<price>600</price>
+<currencyId>UAH</currencyId>
+<categoryId>21377</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/43/15989215914287_+1ebc904ca9.jpg</picture>
+<name>Чехол для чемодана неопрен NPC-Jeans-M</name>
+<name_ua>Чохол для валізи неопрен NPC-Jeans-M</name_ua>
+<vendorCode>NPC-Jeans-M</vendorCode>
+<country_of_origin>Україна</country_of_origin>
+<description><![CDATA[Чехол для чемодана неопрен NPC-Jeans-M]]></description>
+<description_ua><![CDATA[Чохол для валізи неопрен NPC-Jeans-M]]></description_ua>
+<param name="Цвет">синій</param>
+<param name="Тип">чохол для валізи</param>
+<param name="Материал">поліестер</param>
+<param name="Состояние">новий</param>
+<dimensions>20/55/40</dimensions>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
