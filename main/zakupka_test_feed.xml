@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-08 22:50">
+<yml_catalog date="2026-11-08 23:10">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -45,11 +45,7 @@
 <param name="Принт">без принта</param>
 <param name="Особенности цвета">інше</param>
 <param name="Состояние">новий</param>
-<dimensions>
-<width unit="cm">48</width>
-<height unit="cm">75</height>
-<length unit="cm">30</length>
-</dimensions>
+<dimensions>30/48/75</dimensions>
 </offer>
 <offer id="986" available="true" portalid="5030">
 <url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red/</url>
@@ -73,11 +69,7 @@
 <param name="Принт">без принта</param>
 <param name="Особенности цвета">інше</param>
 <param name="Состояние">новий</param>
-<dimensions>
-<width unit="cm">25</width>
-<height unit="cm">39</height>
-<length unit="cm">17</length>
-</dimensions>
+<dimensions>17/25/39</dimensions>
 </offer>
 <offer id="983" available="true" portalid="10855">
 <url>https://sklad-valiz.com.ua/sumka-dlia-ruchnoi-poklazhi-snowball-41403s-mala-13l-sira-41403s-gray/</url>
@@ -103,11 +95,7 @@
 <param name="Принт">без принта</param>
 <param name="Особенности цвета">інше</param>
 <param name="Состояние">новий</param>
-<dimensions>
-<width unit="cm">31</width>
-<height unit="cm">28</height>
-<length unit="cm">15</length>
-</dimensions>
+<dimensions>15/31/28</dimensions>
 </offer>
 <offer id="642" available="true" portalid="21377">
 <url>https://sklad-valiz.com.ua/chokhol-dlia-valizy-neopren-npc-jeans-m/</url>
@@ -126,11 +114,7 @@
 <param name="Материал">поліестер</param>
 <param name="Размер">Середній</param>
 <param name="Состояние">новий</param>
-<dimensions>
-<width unit="cm">40</width>
-<height unit="cm">55</height>
-<length unit="cm">20</length>
-</dimensions>
+<dimensions>20/40/55</dimensions>
 </offer>
 </offers>
 </shop>
