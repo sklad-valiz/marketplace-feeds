@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-09 00:55">
+<yml_catalog date="2026-11-10 15:50">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -5699,40 +5699,6 @@
 <dimensions>29/44/65</dimensions>
 <weight>3</weight>
 </offer>
-<offer id="1158" available="true" portalid="10855">
-<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue/</url>
-<price>2750</price>
-<currencyId>UAH</currencyId>
-<categoryId>10855</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-56976674293940_+5121fdad2b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-83364379563661_+68573e9027.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-79509140160384_+3a1f5b3b48.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-39089967192496_+3d3d651256.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-58688272139796_+4433b15104.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-55668958966817_+92f8e3d80d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-80957385026218_+e37058a12c.jpg</picture>
-<name>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name>
-<name_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name_ua>
-<vendorCode>65903-M-Light-blue</vendorCode>
-<vendor>Carbon</vendor>
-<country_of_origin>Україна</country_of_origin>
-<description><![CDATA[Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)]]></description>
-<description_ua><![CDATA[Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)]]></description_ua>
-<param name="Цвет">блакитний</param>
-<param name="Тип">чемодан</param>
-<param name="Материал">поліпропілен</param>
-<param name="Объём, л" unit="л">67</param>
-<param name="Половозрастная категория">унісекс</param>
-<param name="Замок">кодовий замок</param>
-<param name="Размер">середній</param>
-<param name="Корпус">жорсткий</param>
-<param name="Количество отделений">2</param>
-<param name="Принт">без принта</param>
-<param name="Особенности цвета">інше</param>
-<param name="Состояние">новий</param>
-<dimensions>29/44/65</dimensions>
-<weight>3</weight>
-</offer>
 <offer id="1159" available="true" portalid="10855">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray/</url>
 <price>2850</price>
@@ -5886,37 +5852,6 @@
 <description><![CDATA[Набор чемоданов с расширением Carbon 65903 4 в 1 кремовый (65903-Set-Milk)]]></description>
 <description_ua><![CDATA[Набір валіз з розширенням Carbon 65903 4 в 1 кремовий (65903-Set-Milk)]]></description_ua>
 <param name="Цвет">кремовий</param>
-<param name="Тип">набори валіз</param>
-<param name="Материал">поліпропілен</param>
-<param name="Половозрастная категория">унісекс</param>
-<param name="Замок">кодовий замок</param>
-<param name="Размер">великий</param>
-<param name="Корпус">жорсткий</param>
-<param name="Количество отделений">2</param>
-<param name="Принт">без принта</param>
-<param name="Особенности цвета">інше</param>
-<param name="Состояние">новий</param>
-</offer>
-<offer id="1164" available="true" portalid="10855">
-<url>https://sklad-valiz.com.ua/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue/</url>
-<price>7125</price>
-<currencyId>UAH</currencyId>
-<categoryId>10855</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-68824174524075_+358ffd3830.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-44961371709305_+617d77248a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-21183591084322_+c5680f83b5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-90217770733967_+ab3b5d25d5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-86679733448531_+f0af852bd3.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-34686662732690_+dc3a03042e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-82180731329914_+b5310737c8.jpg</picture>
-<name>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</name>
-<name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</name_ua>
-<vendorCode>65903-Set-Light-blue</vendorCode>
-<vendor>Carbon</vendor>
-<country_of_origin>Україна</country_of_origin>
-<description><![CDATA[Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)]]></description>
-<description_ua><![CDATA[Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)]]></description_ua>
-<param name="Цвет">блакитний</param>
 <param name="Тип">набори валіз</param>
 <param name="Материал">поліпропілен</param>
 <param name="Половозрастная категория">унісекс</param>
@@ -7982,39 +7917,6 @@
 <param name="Состояние">новий</param>
 <dimensions>27/36/57</dimensions>
 <weight>3</weight>
-</offer>
-<offer id="1239" available="true" portalid="10855">
-<url>https://sklad-valiz.com.ua/valiza-wings-2504-serednia-70l-synia-2504-m-grey/</url>
-<price>2750</price>
-<currencyId>UAH</currencyId>
-<categoryId>10855</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-19358671415920_+0270f2a896.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-50908880505527_+b43e47bdc1.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-85327327904450_+e45b955ba2.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-87102098234882_+6575f085e1.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-58885368950898_+67d27644f4.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-39109605723561_+383b41a918.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-78127752121261_+60c9ba7dd5.jpg</picture>
-<name>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name>
-<name_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name_ua>
-<vendorCode>2504-M-Blue</vendorCode>
-<vendor>Wings</vendor>
-<country_of_origin>Польща</country_of_origin>
-<description><![CDATA[Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)]]></description>
-<description_ua><![CDATA[Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)]]></description_ua>
-<param name="Цвет">синій</param>
-<param name="Тип">чемодан</param>
-<param name="Объём, л" unit="л">63</param>
-<param name="Половозрастная категория">унісекс</param>
-<param name="Замок">кодовий замок</param>
-<param name="Размер">середній</param>
-<param name="Корпус">м&apos;який</param>
-<param name="Количество отделений">2</param>
-<param name="Принт">без принта</param>
-<param name="Особенности цвета">інше</param>
-<param name="Состояние">новий</param>
-<dimensions>29/42/66</dimensions>
-<weight>4</weight>
 </offer>
 <offer id="1240" available="true" portalid="10855">
 <url>https://sklad-valiz.com.ua/valiza-wings-2504-velyka-70l-synia-2504-l-blue/</url>
@@ -14954,6 +14856,71 @@
 <param name="Особенности цвета">інше</param>
 <param name="Состояние">новий</param>
 </offer>
+<offer id="1158" available="false" portalid="10855">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>10855</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-56976674293940_+5121fdad2b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-83364379563661_+68573e9027.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-79509140160384_+3a1f5b3b48.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-39089967192496_+3d3d651256.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-58688272139796_+4433b15104.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-55668958966817_+92f8e3d80d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-80957385026218_+e37058a12c.jpg</picture>
+<name>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name>
+<name_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name_ua>
+<vendorCode>65903-M-Light-blue</vendorCode>
+<vendor>Carbon</vendor>
+<country_of_origin>Україна</country_of_origin>
+<description><![CDATA[Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)]]></description>
+<description_ua><![CDATA[Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)]]></description_ua>
+<param name="Цвет">блакитний</param>
+<param name="Тип">чемодан</param>
+<param name="Материал">поліпропілен</param>
+<param name="Объём, л" unit="л">67</param>
+<param name="Половозрастная категория">унісекс</param>
+<param name="Замок">кодовий замок</param>
+<param name="Размер">середній</param>
+<param name="Корпус">жорсткий</param>
+<param name="Количество отделений">2</param>
+<param name="Принт">без принта</param>
+<param name="Особенности цвета">інше</param>
+<param name="Состояние">новий</param>
+<dimensions>29/44/65</dimensions>
+<weight>3</weight>
+</offer>
+<offer id="1164" available="false" portalid="10855">
+<url>https://sklad-valiz.com.ua/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue/</url>
+<price>7125</price>
+<currencyId>UAH</currencyId>
+<categoryId>10855</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-68824174524075_+358ffd3830.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-44961371709305_+617d77248a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-21183591084322_+c5680f83b5.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-90217770733967_+ab3b5d25d5.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-86679733448531_+f0af852bd3.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-34686662732690_+dc3a03042e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-82180731329914_+b5310737c8.jpg</picture>
+<name>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</name>
+<name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</name_ua>
+<vendorCode>65903-Set-Light-blue</vendorCode>
+<vendor>Carbon</vendor>
+<country_of_origin>Україна</country_of_origin>
+<description><![CDATA[Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)]]></description>
+<description_ua><![CDATA[Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)]]></description_ua>
+<param name="Цвет">блакитний</param>
+<param name="Тип">набори валіз</param>
+<param name="Материал">поліпропілен</param>
+<param name="Половозрастная категория">унісекс</param>
+<param name="Замок">кодовий замок</param>
+<param name="Размер">великий</param>
+<param name="Корпус">жорсткий</param>
+<param name="Количество отделений">2</param>
+<param name="Принт">без принта</param>
+<param name="Особенности цвета">інше</param>
+<param name="Состояние">новий</param>
+</offer>
 <offer id="1178" available="false" portalid="10855">
 <url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-madisson-53103-serednia-65l-rozheva-53103-m-pink/</url>
 <price>2350</price>
@@ -15237,6 +15204,39 @@
 <param name="Особенности цвета">інше</param>
 <param name="Состояние">новий</param>
 <dimensions>60/30/33</dimensions>
+</offer>
+<offer id="1239" available="false" portalid="10855">
+<url>https://sklad-valiz.com.ua/valiza-wings-2504-serednia-70l-synia-2504-m-grey/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>10855</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-19358671415920_+0270f2a896.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-50908880505527_+b43e47bdc1.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-85327327904450_+e45b955ba2.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-87102098234882_+6575f085e1.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-58885368950898_+67d27644f4.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-39109605723561_+383b41a918.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-78127752121261_+60c9ba7dd5.jpg</picture>
+<name>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name>
+<name_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name_ua>
+<vendorCode>2504-M-Blue</vendorCode>
+<vendor>Wings</vendor>
+<country_of_origin>Польща</country_of_origin>
+<description><![CDATA[Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)]]></description>
+<description_ua><![CDATA[Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)]]></description_ua>
+<param name="Цвет">синій</param>
+<param name="Тип">чемодан</param>
+<param name="Объём, л" unit="л">63</param>
+<param name="Половозрастная категория">унісекс</param>
+<param name="Замок">кодовий замок</param>
+<param name="Размер">середній</param>
+<param name="Корпус">м&apos;який</param>
+<param name="Количество отделений">2</param>
+<param name="Принт">без принта</param>
+<param name="Особенности цвета">інше</param>
+<param name="Состояние">новий</param>
+<dimensions>29/42/66</dimensions>
+<weight>4</weight>
 </offer>
 <offer id="1246" available="false" portalid="10855">
 <url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-carbon-mini-20l-chorna-66101-xs-black/</url>
