@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-07T01:27:58.400Z">
+<yml_catalog date="2026-11-10T13:47:51.762Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -44,7 +44,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="2501-S-Grey" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 малый 38л серый (2501-S-Grey)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 мала 38л сіра (2501-S-Grey)</name_ua>
         <price>1360</price>
@@ -214,7 +214,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="53103-M-Gray" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л серый (53103-M-Gray)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л сіра (53103-M-Gray)</name_ua>
         <price>2350</price>
@@ -353,12 +353,13 @@
         <country>Франція</country>
         <description_ru>Чемодан с отделением для ноутбука Airtex 647 малый 40л серый (647-S-Gray)</description_ru>
         <description_ua>Валіза з відділенням для ноутбуку Airtex 647 мала 40л сіра (647-S-Gray)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/5/95593219484704_+e636c358e4.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/69145110140445_+f52ce14868.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/38917767174177_+a63170b148.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/77517948729572_+9c7ff3b316.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/90764705163604_+ccd6bc8377.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/42818947632113_+72701e058b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-36086568490614_+470f2dea9d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-49049897601794_+204bd41d87.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-22927441244659_+af2ceda300.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-48062331191721_+1b409b333e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-23379320591050_+f23d98b9a8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-50909746133177_+75ca9d6c65.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-44072187065842_+bf1ca664ca.jpg</picture>
         <param name="Колір" value_id="110994">Сірий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
@@ -1007,7 +1008,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="scales-2404" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Весы для чемодана 2404 (scales-2404)</name_ru>
         <name_ua>Ваги для валізи 2404 (scales-2404)</name_ua>
         <price>230</price>
@@ -1110,7 +1111,7 @@
         <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name_ua>
         <price>1595</price>
@@ -1124,29 +1125,6 @@
         <param name="Вид" value_id="167635">Міські</param>
         <param name="Матеріал" value_id="167783">Нейлон</param>
         <param name="Об'єм" value_id="167674">17 л</param>
-        <param name="Стать" value_id="167776">Унісекс</param>
-        <param name="Кількість відділень" value_id="167705">2</param>
-      </offer>
-      <offer id="22103-XS-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</name_ua>
-        <price>3270</price>
-        <categoryId>1089</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</description_ru>
-        <description_ua>Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/28/28723299436904_+bcc45f221d.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/63434251859287_+997e0bedec.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/76542870178870_+fdf5fffc1c.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/94877319250867_+93bc747875.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/31811652290921_+8d8ccdd71e.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/33878547525312_+526d11a8cc.png</picture>
-        <param name="Колір" value_id="435">Чорний</param>
-        <param name="Вид" value_id="167635">Міські</param>
-        <param name="Матеріал" value_id="167786">Поліестер</param>
-        <param name="Об'єм" value_id="167685">24 л</param>
         <param name="Стать" value_id="167776">Унісекс</param>
         <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
@@ -1297,7 +1275,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="33703-L-Yellow" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л желтый (33703-L-Yellow)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л жовта (33703-L-Yellow)</name_ua>
         <price>3150</price>
@@ -1331,7 +1309,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="49203-L-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49203 большой 109л черный (49203-L-Black)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49203 велика 109л чорна (49203-L-Black)</name_ua>
         <price>4800</price>
@@ -2078,7 +2056,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="131-L-Beige" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
         <name_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
         <price>1870</price>
@@ -2243,7 +2221,7 @@
         <param name="Розміри" value_id="196478">40 x 30 x 20 см</param>
       </offer>
       <offer id="HIMAWARI-XS-Red" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
         <price>1595</price>
@@ -2341,6 +2319,20 @@
         <description_ua>Чохол для валізи неопрен фуксія NPC-Fuchsia-M</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/43/chokhol-dlia-valizy-neopren-fuksiia-npc-fuchsia-m-99714326750298_+3332f6ad2f.jpg</picture>
         <param name="Колір" value_id="427">Рожевий</param>
+        <param name="Тип" value_id="200966">Чохли для валіз</param>
+        <param name="Матеріал" value_id="200972">Поліестер</param>
+      </offer>
+      <offer id="NPC-Dark-Green-M" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
+        <name_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</name_ru>
+        <name_ua>Чохол для валізи неопрен темно-зелений NPC-Dark-Green-M</name_ua>
+        <price>600</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</description_ru>
+        <description_ua>Чохол для валізи неопрен темно-зелений NPC-Dark-Green-M</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/44/chokhol-dlia-valizy-neopren-temno-zelenyi-npc-dark-green-m-61611075024005_+a3586220ca.jpg</picture>
+        <param name="Колір" value_id="428">Зелений</param>
         <param name="Тип" value_id="200966">Чохли для валіз</param>
         <param name="Матеріал" value_id="200972">Поліестер</param>
       </offer>
@@ -2610,7 +2602,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="49203-Set-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</name_ru>
         <name_ua>Набір валіз з розширенням Snowball 49203 3 в 1 чорний (49203-Set-Black)</name_ua>
         <price>10720</price>
@@ -2711,7 +2703,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="65803-BC-Gray" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Carbon 65803 12л серый (65803-BC-Gray)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л сірий (65803-BC-Gray)</name_ua>
         <price>950</price>
@@ -2737,7 +2729,7 @@
         <param name="Корпус" value_id="166340">Жорсткий</param>
       </offer>
       <offer id="65803-S-Gray" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 малый 40л серый (65803-S-Gray)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 мала 40л сіра (65803-S-Gray)</name_ua>
         <price>1900</price>
@@ -3464,7 +3456,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="51304-L-Gray" available="true">
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name_ua>
         <price>2450</price>
@@ -4567,7 +4559,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="7898-S-Gray" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 7898 малый 39л серый (7898-S-Gray)</name_ru>
         <name_ua>Валіза з розширенням Carbon 7898 мала 39л сіра (7898-S-Gray)</name_ua>
         <price>2150</price>
@@ -4707,7 +4699,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="7898-M-Milk" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 7898 средний 67л кремовый (7898-M-Milk)</name_ru>
         <name_ua>Валіза з розширенням Carbon 7898 середня 67л кремова (7898-M-Milk)</name_ua>
         <price>2950</price>
@@ -4777,7 +4769,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="7898-L-Champagne" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 7898 большой 98л шампань (7898-L-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Carbon 7898 велика 98л шампань (7898-L-Champagne)</name_ua>
         <price>3050</price>
@@ -4909,7 +4901,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="7898-Set-Milk" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 7898 3 в 1 кремовый (7898-Set-Milk)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 7898 3 в 1 кремовий (7898-Set-Milk)</name_ua>
         <price>6915</price>
@@ -5544,40 +5536,6 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
-      <offer id="65903-M-Light-blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
-        <name_ru>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name_ru>
-        <name_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name_ua>
-        <price>2750</price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</description_ru>
-        <description_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-56976674293940_+5121fdad2b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-83364379563661_+68573e9027.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-79509140160384_+3a1f5b3b48.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-39089967192496_+3d3d651256.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-58688272139796_+4433b15104.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-55668958966817_+92f8e3d80d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-80957385026218_+e37058a12c.jpg</picture>
-        <param name="Колір" value_id="110947">Блакитний</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
-        <param name="Об'єм" value_id="166382">67 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166429">Є</param>
-        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
-        <param name="Висота" value_id="204175">65 см</param>
-        <param name="Ширина" value_id="203932">44 см</param>
-        <param name="Глибина" value_id="203857">29 см</param>
-        <param name="Вага" value_id="166509">3 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
       <offer id="65903-L-Gray" available="true">
         <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name_ru>
@@ -5729,36 +5687,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-kremovyi-65903-set-milk-90995562951180_+078420ea37.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-kremovyi-65903-set-milk-84675408141589_+efeb1bf443.jpg</picture>
         <param name="Колір" value_id="110935">Бежевий</param>
-        <param name="Тип" value_id="166330">Набори валіз</param>
-        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166429">Є</param>
-        <param name="Об'єм" value_id="166428">Гігантські (більше 100 л)</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
-      <offer id="65903-Set-Light-blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
-        <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</name_ru>
-        <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</name_ua>
-        <price>7125</price>
-        <old_price>8200</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</description_ru>
-        <description_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-68824174524075_+358ffd3830.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-44961371709305_+617d77248a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-21183591084322_+c5680f83b5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-90217770733967_+ab3b5d25d5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-86679733448531_+f0af852bd3.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-34686662732690_+dc3a03042e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-82180731329914_+b5310737c8.jpg</picture>
-        <param name="Колір" value_id="110947">Блакитний</param>
         <param name="Тип" value_id="166330">Набори валіз</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
         <param name="Стать" value_id="166335">Унісекс</param>
@@ -6016,7 +5944,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="1403-L-Champagne" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Carbon 1403 большой 98л шампань (1403-L-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Carbon 1403 велика 98л шампань (1403-L-Champagne)</name_ua>
         <price>2200</price>
@@ -6443,7 +6371,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="PHX01-S-Purple" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л сиреневый (PHX01-S-Purple)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л бузкова (PHX01-S-Purple)</name_ua>
         <price>1700</price>
@@ -7567,39 +7495,6 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
-      <offer id="2504-M-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name_ru>
-        <name_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name_ua>
-        <price>2750</price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</description_ru>
-        <description_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-19358671415920_+0270f2a896.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-50908880505527_+b43e47bdc1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-85327327904450_+e45b955ba2.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-87102098234882_+6575f085e1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-58885368950898_+67d27644f4.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-39109605723561_+383b41a918.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-78127752121261_+60c9ba7dd5.jpg</picture>
-        <param name="Колір" value_id="110988">Синій</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Об'єм" value_id="166378">63 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166429">Є</param>
-        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
-        <param name="Висота" value_id="204177">66 см</param>
-        <param name="Ширина" value_id="204214">42 см</param>
-        <param name="Глибина" value_id="203857">29 см</param>
-        <param name="Вага" value_id="166520">4 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166339">М'який</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
       <offer id="2504-L-Blue" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2504 большой 97л синий (2504-L-Blue)</name_ru>
@@ -7828,40 +7723,6 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
-      <offer id="66101-XS-Silver" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан для лоукоста Carbon мини 20л серебряный (66101-XS-Silver)</name_ru>
-        <name_ua>Валіза для лоукосту Carbon міні 20л срібна (66101-XS-Silver)</name_ua>
-        <price>1490</price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан для лоукоста Carbon мини 20л серебряный (66101-XS-Silver)</description_ru>
-        <description_ua>Валіза для лоукосту Carbon міні 20л срібна (66101-XS-Silver)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-24828450322639_+b52b7765e5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-95656774347138_+939aae4464.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-74291890626570_+3d44e6a2a1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-93035568733234_+78a93713fd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-16653970282723_+377b183890.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-31646788729983_+67db30af6e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-32169545190097_+667c7abdca.jpg</picture>
-        <param name="Колір" value_id="110997">Сріблястий</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
-        <param name="Об'єм" value_id="166349">20 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
-        <param name="Висота" value_id="525135">40 см</param>
-        <param name="Ширина" value_id="204201">30 см</param>
-        <param name="Глибина" value_id="204238">20 см</param>
-        <param name="Вага" value_id="166496">2 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
       <offer id="PHX01-Set-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</name_ru>
@@ -8067,12 +7928,13 @@
         <country>Франція</country>
         <description_ru>Чемодан с отделением для ноутбука Airtex 647 малый 40л черный (647-S-Black)</description_ru>
         <description_ua>Валіза з відділенням для ноутбуку Airtex 647 мала 40л чорна (647-S-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/5/95593219484704_+e636c358e4.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/69145110140445_+f52ce14868.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/38917767174177_+a63170b148.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/77517948729572_+9c7ff3b316.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/90764705163604_+ccd6bc8377.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/42818947632113_+72701e058b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-84049832299973_+5d95197585.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-53050784436129_+5023c592cd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-27472656606633_+846c2c2185.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-84082042207281_+1bc9235df2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-29396631209543_+8489780dca.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-73933554450863_+9938823826.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-23695265907725_+02d2abba01.jpg</picture>
         <param name="Колір" value_id="111010">Чорний</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
@@ -8101,12 +7963,13 @@
         <country>Франція</country>
         <description_ru>Чемодан с расширением Airtex 647 средний 72л черный (647-M-Black)</description_ru>
         <description_ua>Валіза з розширенням Airtex 647 середня 72л чорна (647-M-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/79710539915513_+45cb0420d4.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/47440951287029_+f6424cb698.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/89442936344579_+c56abe5158.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/14161229629847_+3acc0dd348.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/41362220246378_+49a3011ea0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/37686568957872_+89e8078876.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-89831030667937_+73323613c0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-77180202213850_+df3b740908.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-45198648403472_+34a04ede8b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-29578742837802_+995ab7881e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-33396727527479_+4dfe18b37d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-91648184536864_+7def07e826.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-48085420703076_+aaae909536.jpg</picture>
         <param name="Колір" value_id="111010">Чорний</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
@@ -8135,12 +7998,13 @@
         <country>Франція</country>
         <description_ru>Чемодан с расширением Airtex 647 большой 105л черный (647-L-Black)</description_ru>
         <description_ua>Валіза з розширенням Airtex 647 велика 105л чорна (647-L-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/4/35809751890422_+7505c05ace.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/86366540509598_+37ea8712be.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/68724216326068_+1ec3ebe7c0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/33667891498768_+77af9c20f2.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/20367115727596_+7abcdd8d2e.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/66782553396426_+165158a874.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-68279339310766_+dbad69cd36.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-61853120032159_+a94235bf79.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-94627678449106_+c5ebe8ea40.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-81229659598544_+bd46165a48.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-41521376613504_+77a4b65bc8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-43053297153350_+9f5703bdec.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-79126270077344_+bd47b7e396.jpg</picture>
         <param name="Колір" value_id="111010">Чорний</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
@@ -9727,12 +9591,13 @@
         <country>Франція</country>
         <description_ru>Чемодан с расширением Airtex 647 средний 72л серый (647-M-Gray)</description_ru>
         <description_ua>Валіза з розширенням Airtex 647 середня 72л сіра (647-M-Gray)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/79710539915513_+45cb0420d4.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/47440951287029_+f6424cb698.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/89442936344579_+c56abe5158.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/14161229629847_+3acc0dd348.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/41362220246378_+49a3011ea0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/37686568957872_+89e8078876.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-33011368661525_+231b0fa64e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-79960773807477_+ccf01accf2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-61810496999592_+c75de482af.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-59741935979742_+c9e7fabca1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-35831010181754_+4b0fc83da7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-21413744575713_+144f0ea7e0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-89891596162782_+714ad4b436.jpg</picture>
         <param name="Колір" value_id="110994">Сірий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
@@ -9761,12 +9626,13 @@
         <country>Франція</country>
         <description_ru>Чемодан с расширением Airtex 647 большой 105л серый (647-L-Gray)</description_ru>
         <description_ua>Валіза з розширенням Airtex 647 велика 105л сіра (647-L-Gray)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/4/35809751890422_+7505c05ace.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/86366540509598_+37ea8712be.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/68724216326068_+1ec3ebe7c0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/33667891498768_+77af9c20f2.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/20367115727596_+7abcdd8d2e.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/66782553396426_+165158a874.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-76272006035077_+2c369511b9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-76817082582527_+6912349778.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-88678686892376_+dcf7e71a3d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-16137710865724_+c2e50a9c49.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-90106772321140_+332f6a4e67.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-71259119481882_+06cb48a908.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-46982512507660_+acce055226.jpg</picture>
         <param name="Колір" value_id="110994">Сірий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
@@ -10966,6 +10832,29 @@
         <param name="Корпус" value_id="166340">Жорсткий</param>
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="22103-XS-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</name_ua>
+        <price>3270</price>
+        <categoryId>1089</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/28/28723299436904_+bcc45f221d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/63434251859287_+997e0bedec.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/76542870178870_+fdf5fffc1c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/94877319250867_+93bc747875.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/31811652290921_+8d8ccdd71e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/33878547525312_+526d11a8cc.png</picture>
+        <param name="Колір" value_id="435">Чорний</param>
+        <param name="Вид" value_id="167635">Міські</param>
+        <param name="Матеріал" value_id="167786">Поліестер</param>
+        <param name="Об'єм" value_id="167685">24 л</param>
+        <param name="Стать" value_id="167776">Унісекс</param>
+        <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="801-1-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -12883,20 +12772,6 @@
         <param name="Корпус сумки" value_id="165394">М'який</param>
         <param name="Розміри" value_id="196478">40 x 30 x 20 см</param>
       </offer>
-      <offer id="NPC-Dark-Green-M" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</name_ru>
-        <name_ua>Чохол для валізи неопрен темно-зелений NPC-Dark-Green-M</name_ua>
-        <price>600</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</description_ru>
-        <description_ua>Чохол для валізи неопрен темно-зелений NPC-Dark-Green-M</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/44/chokhol-dlia-valizy-neopren-temno-zelenyi-npc-dark-green-m-61611075024005_+a3586220ca.jpg</picture>
-        <param name="Колір" value_id="428">Зелений</param>
-        <param name="Тип" value_id="200966">Чохли для валіз</param>
-        <param name="Матеріал" value_id="200972">Поліестер</param>
-      </offer>
       <offer id="42203-Set-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Madisson 42203 3 в 1 черный (42203-Set-Black)</name_ru>
@@ -14456,6 +14331,70 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
+      <offer id="65903-M-Light-blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name_ru>
+        <name_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name_ua>
+        <price>2750</price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</description_ru>
+        <description_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-56976674293940_+5121fdad2b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-83364379563661_+68573e9027.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-79509140160384_+3a1f5b3b48.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-39089967192496_+3d3d651256.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-58688272139796_+4433b15104.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-55668958966817_+92f8e3d80d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-80957385026218_+e37058a12c.jpg</picture>
+        <param name="Колір" value_id="110947">Блакитний</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Об'єм" value_id="166382">67 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166429">Є</param>
+        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
+        <param name="Висота" value_id="204175">65 см</param>
+        <param name="Ширина" value_id="203932">44 см</param>
+        <param name="Глибина" value_id="203857">29 см</param>
+        <param name="Вага" value_id="166509">3 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="65903-Set-Light-blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</name_ru>
+        <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</name_ua>
+        <price>7125</price>
+        <old_price>8200</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</description_ru>
+        <description_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-68824174524075_+358ffd3830.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-44961371709305_+617d77248a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-21183591084322_+c5680f83b5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-90217770733967_+ab3b5d25d5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-86679733448531_+f0af852bd3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-34686662732690_+dc3a03042e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-blakytnyi-65903-set-light-blue-82180731329914_+b5310737c8.jpg</picture>
+        <param name="Колір" value_id="110947">Блакитний</param>
+        <param name="Тип" value_id="166330">Набори валіз</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166429">Є</param>
+        <param name="Об'єм" value_id="166428">Гігантські (більше 100 л)</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
       <offer id="53103-M-Pink" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л розовый (53103-M-Pink)</name_ru>
@@ -14711,6 +14650,39 @@
         <param name="Корпус сумки" value_id="165394">М'який</param>
         <param name="Розміри" value_id="247736">67 x 43 x 28 см</param>
       </offer>
+      <offer id="2504-M-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name_ru>
+        <name_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name_ua>
+        <price>2750</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</description_ru>
+        <description_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-19358671415920_+0270f2a896.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-50908880505527_+b43e47bdc1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-85327327904450_+e45b955ba2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-87102098234882_+6575f085e1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-58885368950898_+67d27644f4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-39109605723561_+383b41a918.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-78127752121261_+60c9ba7dd5.jpg</picture>
+        <param name="Колір" value_id="110988">Синій</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Об'єм" value_id="166378">63 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166429">Є</param>
+        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
+        <param name="Висота" value_id="204177">66 см</param>
+        <param name="Ширина" value_id="204214">42 см</param>
+        <param name="Глибина" value_id="203857">29 см</param>
+        <param name="Вага" value_id="166520">4 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166339">М'який</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
       <offer id="66101-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Carbon мини 20л черный (66101-XS-Black)</name_ru>
@@ -14763,6 +14735,40 @@
         <picture>https://sklad-valiz.com.ua/content/images/48/valiza-dlia-loukostu-carbon-mini-20l-chervona-66101-xs-red-93455189974641_+36a7ceab3a.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/48/valiza-dlia-loukostu-carbon-mini-20l-chervona-66101-xs-red-80871267871278_+970ad06078.jpg</picture>
         <param name="Колір" value_id="111005">Червоний</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
+        <param name="Об'єм" value_id="166349">20 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
+        <param name="Висота" value_id="525135">40 см</param>
+        <param name="Ширина" value_id="204201">30 см</param>
+        <param name="Глибина" value_id="204238">20 см</param>
+        <param name="Вага" value_id="166496">2 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
+      <offer id="66101-XS-Silver" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан для лоукоста Carbon мини 20л серебряный (66101-XS-Silver)</name_ru>
+        <name_ua>Валіза для лоукосту Carbon міні 20л срібна (66101-XS-Silver)</name_ua>
+        <price>1490</price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан для лоукоста Carbon мини 20л серебряный (66101-XS-Silver)</description_ru>
+        <description_ua>Валіза для лоукосту Carbon міні 20л срібна (66101-XS-Silver)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-24828450322639_+b52b7765e5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-95656774347138_+939aae4464.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-74291890626570_+3d44e6a2a1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-93035568733234_+78a93713fd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-16653970282723_+377b183890.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-31646788729983_+67db30af6e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver-32169545190097_+667c7abdca.jpg</picture>
+        <param name="Колір" value_id="110997">Сріблястий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
         <param name="Об'єм" value_id="166349">20 л</param>
@@ -17598,7 +17604,7 @@
         <param name="Матеріал" value_id="525195">Дайвінг</param>
       </offer>
       <offer id="VPC-Prozoryi-L" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чехол для чемодана винил VPC-Prozoryi-L</name_ru>
         <name_ua>Чохол для валізи вініл VPC-Prozoryi-L</name_ua>
         <price>400</price>
@@ -17668,7 +17674,7 @@
         <param name="Матеріал" value_id="200972">Поліестер</param>
       </offer>
       <offer id="NPC-Black-M" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Black-M</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Black-M</name_ua>
         <price>600</price>
@@ -17850,7 +17856,7 @@
         <param name="Матеріал" value_id="200972">Поліестер</param>
       </offer>
       <offer id="NPC-Burgundy-M" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-M</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-M</name_ua>
         <price>600</price>
@@ -17864,7 +17870,7 @@
         <param name="Матеріал" value_id="200972">Поліестер</param>
       </offer>
       <offer id="NPC-Burgundy-L" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-L</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-L</name_ua>
         <price>600</price>
@@ -17948,7 +17954,7 @@
         <param name="Матеріал" value_id="525195">Дайвінг</param>
       </offer>
       <offer id="NPC-Blue-M" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-M</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-M</name_ua>
         <price>600</price>
@@ -17975,8 +17981,8 @@
         <param name="Тип" value_id="200966">Чохли для валіз</param>
         <param name="Матеріал" value_id="200972">Поліестер</param>
       </offer>
-      <offer id="NPC-Blue-L" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="NPC-Blue-L" available="true">
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-L</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-L</name_ua>
         <price>600</price>
@@ -18060,7 +18066,7 @@
         <param name="Матеріал" value_id="525195">Дайвінг</param>
       </offer>
       <offer id="DPC-Black-L" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг черный DPC-Black-L</name_ru>
         <name_ua>Чохол для валізи дайвінг чорний DPC-Black-L</name_ua>
         <price>500</price>
@@ -18074,7 +18080,7 @@
         <param name="Матеріал" value_id="525195">Дайвінг</param>
       </offer>
       <offer id="DPC-Brown-S" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-S</name_ru>
         <name_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-S</name_ua>
         <price>500</price>
@@ -18102,7 +18108,7 @@
         <param name="Матеріал" value_id="525195">Дайвінг</param>
       </offer>
       <offer id="PC001BLUE" available="true">
-        <quantity_in_stock>30</quantity_in_stock>
+        <quantity_in_stock>62</quantity_in_stock>
         <name_ru>Органайзер для обуви PC001BLUE</name_ru>
         <name_ua>Органайзер для взуття PC001BLUE</name_ua>
         <price>80</price>
@@ -18117,7 +18123,7 @@
         <param name="Колір" value_id="3395">Темно-синій</param>
       </offer>
       <offer id="TP01-Grey" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>36</quantity_in_stock>
         <name_ru>Подушка для путешествий TP01-Grey</name_ru>
         <name_ua>Подушка для подорожей TP01-Grey</name_ua>
         <price>340</price>
@@ -18129,7 +18135,7 @@
         <param name="Колір" value_id="831">Сірий</param>
       </offer>
       <offer id="TP01-Burgundy" available="true">
-        <quantity_in_stock>19</quantity_in_stock>
+        <quantity_in_stock>44</quantity_in_stock>
         <name_ru>Подушка для путешествий TP01-Burgundy</name_ru>
         <name_ua>Подушка для подорожей TP01-Burgundy</name_ua>
         <price>340</price>
@@ -18177,7 +18183,7 @@
         <param name="Колір" value_id="436">Синій</param>
       </offer>
       <offer id="OI01-Grey" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Подушка-рогалик для путешествий серая OI01-Grey</name_ru>
         <name_ua>Подушка-рогалик для подорожей сіра OI01-Grey</name_ua>
         <price>500</price>
@@ -19274,7 +19280,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="HIMAWARI-XS-Black" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
         <price>1495</price>
@@ -19315,7 +19321,7 @@
         <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Gray-mint" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name_ua>
         <price>1495</price>
@@ -19358,7 +19364,7 @@
         <param name="Кількість відділень" value_id="167705">2</param>
       </offer>
       <offer id="HIMAWARI-XS-Beige" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л бежевый (HIMAWARI-XS-Beige)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name_ua>
         <price>1495</price>
