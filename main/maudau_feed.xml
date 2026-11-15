@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14T01:27:59.972Z">
+<yml_catalog date="2026-11-15T01:27:57.613Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -1684,6 +1684,33 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
+      <offer id="004-XS-Fuchsia" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан для лоукоста Easy Move мини 20л фуксия (004-XS-Fuchsia)</name_ru>
+        <name_ua>Валіза для лоукосту Easy Move міні 20л фуксія (004-XS-Fuchsia)</name_ua>
+        <price>1700</price>
+        <categoryId>1061</categoryId>
+        <country>Україна</country>
+        <description_ru>Чемодан для лоукоста Easy Move мини 20л фуксия (004-XS-Fuchsia)</description_ru>
+        <description_ua>Валіза для лоукосту Easy Move міні 20л фуксія (004-XS-Fuchsia)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-dlia-loukostu-easy-move-mini-20l-fuksiia-004-xs-fuchsia-41354318259744_+7ae956ac20.jpg</picture>
+        <param name="Колір" value_id="110978">Рожевий</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
+        <param name="Об'єм" value_id="166349">20 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166430">Немає</param>
+        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
+        <param name="Висота" value_id="525135">40 см</param>
+        <param name="Ширина" value_id="204201">30 см</param>
+        <param name="Глибина" value_id="204238">20 см</param>
+        <param name="Вага" value_id="166496">2 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
       <offer id="2011-XS-Champagne" available="true">
         <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wings 2011 мини 28л шампань (2011-XS-Champagne)</name_ru>
@@ -2179,7 +2206,7 @@
         <param name="Тип" value_id="200965">Ремені для багажу</param>
       </offer>
       <offer id="1010-Gray" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Багажный ремень Snowball 160см серый (1010-Gray)</name_ru>
         <name_ua>Багажний ремінь Snowball 160см сірий (1010-Gray)</name_ua>
         <price>120</price>
@@ -3211,6 +3238,40 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
+      <offer id="51304-M-Champagne" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name_ua>
+        <price>2350</price>
+        <categoryId>1061</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/40688021640192_+44a5d9e186.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/79556003131651_+c292f99762.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/98802074499148_+a734eb5d92.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/40307411130632_+8f9fc60a8b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/56615944817550_+1739751eaf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/18893056957516_+9f0d9d9633.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/95456330655348_+616657bf5a.jpg</picture>
+        <param name="Колір" value_id="110935">Бежевий</param>
+        <param name="Тип" value_id="166327">Валізи</param>
+        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
+        <param name="Об'єм" value_id="166378">63 л</param>
+        <param name="Стать" value_id="166335">Унісекс</param>
+        <param name="Вбудований замок" value_id="166433">Кодовий</param>
+        <param name="Наявність розширення" value_id="166429">Є</param>
+        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
+        <param name="Висота" value_id="204175">65 см</param>
+        <param name="Ширина" value_id="204215">43 см</param>
+        <param name="Глибина" value_id="203933">25 см</param>
+        <param name="Вага" value_id="166509">3 кг</param>
+        <param name="Тип закриття" value_id="166431">На блискавці</param>
+        <param name="Корпус" value_id="166340">Жорсткий</param>
+        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
+        <param name="Кількість коліс" value_id="166437">4 шт</param>
+      </offer>
       <offer id="51304-M-RoseGold" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</name_ru>
@@ -3246,7 +3307,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="51304-L-RoseGold" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л розовое золото (51304-L-RoseGold)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л рожеве золото (51304-L-RoseGold)</name_ua>
         <price>2450</price>
@@ -4293,7 +4354,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="65803-S-Champagne" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 малый 40л шампань (65803-S-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 мала 40л шампань (65803-S-Champagne)</name_ua>
         <price>1900</price>
@@ -5041,7 +5102,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="PHX01-L-Blue" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</name_ua>
         <price>2300</price>
@@ -5109,7 +5170,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="PHX01-Set-Blue" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 синій (PHX01-Set-Blue)</name_ua>
         <price>5250</price>
@@ -5426,7 +5487,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="65903-L-Gray" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</name_ua>
         <price>2850</price>
@@ -5798,7 +5859,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="1403-L-Black" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Carbon 1403 большой 98л черный (1403-L-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Carbon 1403 велика 98л чорна (1403-L-Black)</name_ua>
         <price>2200</price>
@@ -12052,33 +12113,6 @@
         <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
-      <offer id="004-XS-Fuchsia" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан для лоукоста Easy Move мини 20л фуксия (004-XS-Fuchsia)</name_ru>
-        <name_ua>Валіза для лоукосту Easy Move міні 20л фуксія (004-XS-Fuchsia)</name_ua>
-        <price>1700</price>
-        <categoryId>1061</categoryId>
-        <country>Україна</country>
-        <description_ru>Чемодан для лоукоста Easy Move мини 20л фуксия (004-XS-Fuchsia)</description_ru>
-        <description_ua>Валіза для лоукосту Easy Move міні 20л фуксія (004-XS-Fuchsia)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-dlia-loukostu-easy-move-mini-20l-fuksiia-004-xs-fuchsia-41354318259744_+7ae956ac20.jpg</picture>
-        <param name="Колір" value_id="110978">Рожевий</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166451">ABS-пластик</param>
-        <param name="Об'єм" value_id="166349">20 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166430">Немає</param>
-        <param name="Об'єм" value_id="166425">Маленькі (до 50 л)</param>
-        <param name="Висота" value_id="525135">40 см</param>
-        <param name="Ширина" value_id="204201">30 см</param>
-        <param name="Глибина" value_id="204238">20 см</param>
-        <param name="Вага" value_id="166496">2 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
       <offer id="004-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Easy Move мини 20л черный (004-XS-Black)</name_ru>
@@ -13251,40 +13285,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/50/17010967587738_+f4abc5bb92.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/50/42761570349797_+fcaac6ec7f.jpg</picture>
         <param name="Колір" value_id="110994">Сірий</param>
-        <param name="Тип" value_id="166327">Валізи</param>
-        <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
-        <param name="Об'єм" value_id="166378">63 л</param>
-        <param name="Стать" value_id="166335">Унісекс</param>
-        <param name="Вбудований замок" value_id="166433">Кодовий</param>
-        <param name="Наявність розширення" value_id="166429">Є</param>
-        <param name="Об'єм" value_id="166426">Середні (50 – 89.9 л)</param>
-        <param name="Висота" value_id="204175">65 см</param>
-        <param name="Ширина" value_id="204215">43 см</param>
-        <param name="Глибина" value_id="203933">25 см</param>
-        <param name="Вага" value_id="166509">3 кг</param>
-        <param name="Тип закриття" value_id="166431">На блискавці</param>
-        <param name="Корпус" value_id="166340">Жорсткий</param>
-        <param name="Матеріал коліс" value_id="166438">Поліуретан</param>
-        <param name="Кількість коліс" value_id="166437">4 шт</param>
-      </offer>
-      <offer id="51304-M-Champagne" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name_ua>
-        <price>2350</price>
-        <categoryId>1061</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/40688021640192_+44a5d9e186.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/79556003131651_+c292f99762.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/98802074499148_+a734eb5d92.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/40307411130632_+8f9fc60a8b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/56615944817550_+1739751eaf.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/18893056957516_+9f0d9d9633.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/95456330655348_+616657bf5a.jpg</picture>
-        <param name="Колір" value_id="110935">Бежевий</param>
         <param name="Тип" value_id="166327">Валізи</param>
         <param name="Матеріал корпусу" value_id="166452">Поліпропілен</param>
         <param name="Об'єм" value_id="166378">63 л</param>
@@ -17749,7 +17749,7 @@
         <param name="Матеріал" value_id="200972">Поліестер</param>
       </offer>
       <offer id="NPC-Burgundy-L" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-L</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-L</name_ua>
         <price>600</price>
@@ -17917,7 +17917,7 @@
         <param name="Матеріал" value_id="525195">Дайвінг</param>
       </offer>
       <offer id="DPC-Green-L" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг салатовый DPC-Green-L</name_ru>
         <name_ua>Чохол для валізи дайвінг салатовий DPC-Green-L</name_ua>
         <price>500</price>
@@ -18599,7 +18599,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="5398-S-Champagne-ABS" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Wings 5398 малый 38л шампань (5398-S-Champagne-ABS)</name_ru>
         <name_ua>Валіза Wings 5398 мала 38л шампань (5398-S-Champagne-ABS)</name_ua>
         <price>1400</price>
@@ -19747,7 +19747,7 @@
         <param name="Кількість коліс" value_id="166437">4 шт</param>
       </offer>
       <offer id="2501-M-Grey" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 средний 63л серый (2501-M-Grey)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 середня 63л сіра (2501-M-Grey)</name_ua>
         <price>2900</price>
