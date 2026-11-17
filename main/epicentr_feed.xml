@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 02:06">
+<yml_catalog date="2026-11-17 02:06">
   <offers>
     <offer id="2501-S-Grey" available="true">
       <name lang="ru">Чемодан с расширением Wings 2501 малый 38л серый (2501-S-Grey)</name>
@@ -1556,14 +1556,14 @@
       <length>230</length>
     </offer>
     <offer id="HIMAWARI-XS-Gray" available="true">
-      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name>
-      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name>
+      <name lang="ru">Рюкзак для лоукоста 17л серый (HIMAWARI-XS-Gray)</name>
+      <name lang="ua">Рюкзак для лоукосту 17л сірий (HIMAWARI-XS-Gray)</name>
       <price>1595</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
-      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</description>
-      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</description>
+      <description lang="ru">Рюкзак для лоукоста 17л серый (HIMAWARI-XS-Gray)</description>
+      <description lang="ua">Рюкзак для лоукосту 17л сірий (HIMAWARI-XS-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/26/19508419475366_+32bd5e43ae.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/26/85214689894688_+dcfb51284f.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/26/88126201802936_+2631681a69.png</picture>
@@ -1583,10 +1583,9 @@
       <param name="Висота" paramcode="110">39</param>
       <param name="Ширина" paramcode="111">25</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 17л сірий (HIMAWARI-XS-Gray)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -1598,14 +1597,14 @@
       <width>250</width>
     </offer>
     <offer id="HIMAWARI-XS-Blue" available="true">
-      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name>
-      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name>
+      <name lang="ru">Рюкзак для лоукоста 17л синий (HIMAWARI-XS-Blue)</name>
+      <name lang="ua">Рюкзак для лоукосту 17л синій (HIMAWARI-XS-Blue)</name>
       <price>1595</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
-      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</description>
-      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</description>
+      <description lang="ru">Рюкзак для лоукоста 17л синий (HIMAWARI-XS-Blue)</description>
+      <description lang="ua">Рюкзак для лоукосту 17л синій (HIMAWARI-XS-Blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/27/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-synii-himawari-xs-blue-92293649144052_+73619321de.png</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
@@ -1620,10 +1619,9 @@
       <param name="Висота" paramcode="110">39</param>
       <param name="Ширина" paramcode="111">25</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 17л синій (HIMAWARI-XS-Blue)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -1635,13 +1633,13 @@
       <width>250</width>
     </offer>
     <offer id="TL096339-20-XS-Blue" available="true">
-      <name lang="ru">Рюкзак для ручной клади Travelite 12л синий (TL096339-20-XS-Blue)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Travelite 12л синій (TL096339-20-XS-Blue)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 12л синий (TL096339-20-XS-Blue)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 12л синій (TL096339-20-XS-Blue)</name>
       <price>2525</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Travelite 12л синий (TL096339-20-XS-Blue)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Travelite 12л синій (TL096339-20-XS-Blue)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 12л синий (TL096339-20-XS-Blue)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 12л синій (TL096339-20-XS-Blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/30/99644789651822_+c348fb0ea1.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/30/57387554370756_+dc99b7899b.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/30/70211354021582_+cb09b59e88.png</picture>
@@ -1661,10 +1659,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">31</param>
       <param name="Довжина" paramcode="2470">10</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="deu">Німеччина</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Travelite 12л синій (TL096339-20-XS-Blue)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 12л синій (TL096339-20-XS-Blue)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -2018,6 +2015,60 @@
       <height>550</height>
       <width>380</width>
       <length>230</length>
+    </offer>
+    <offer id="19168-L-Champagne" available="true">
+      <name lang="ru">Чемодан Wings 19168 большой 97 л шампань (19168-L-Champagne)</name>
+      <name lang="ua">Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</name>
+      <price>2340</price>
+      <price_old>2600</price_old>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <description lang="ru">Чемодан Wings 19168 большой 97 л шампань (19168-L-Champagne)</description>
+      <description lang="ua">Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-27084473747341_+c0921c941b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-26015135934745_+16162bd42d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-30135668488159_+29bd04a1c6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-31856951778147_+c6111c51d5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-92688725121353_+335268e30a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-79046577255166_+acf6f5c8d9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-77650333096500_+bbe7aa4147.jpg</picture>
+      <param name="Базовий колір" paramcode="12097" valuecode="19065f9e37ca53ebf067c60a7881edcc">золото</param>
+      <param name="Колір виробника" paramcode="78" valuecode="xlt7rztrsxh5a4sc">шампань</param>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
+      <param name="Об'єм" paramcode="104">97</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Вікова група" paramcode="2868" valuecode="09857ba2f81d8a7fd4370e2f2114abc6">для дорослих</param>
+      <param name="Особливості" paramcode="2860">телескопічна</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Висота" paramcode="110">75</param>
+      <param name="Ширина" paramcode="111">50</param>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Вага" paramcode="10301">4</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Корпус" paramcode="16677" valuecode="7538c2fd4cb361d02b463bc26ca1d35f">твердий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Габаритний розмір" paramcode="1476">49x29x74</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Опис" paramcode="description">Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Вага упаковки" paramcode="weight">1000</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+      <param name="Бренд" paramcode="brand" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <weight>1000</weight>
+      <height>750</height>
+      <width>500</width>
+      <length>300</length>
     </offer>
     <offer id="19168-S-Grey" available="true">
       <name lang="ru">Чемодан для ручной клади Wings 19168 малый 38 л серый (19168-S-Grey)</name>
@@ -6232,13 +6283,13 @@
       <weight>1000</weight>
     </offer>
     <offer id="Catesigo-XS-Grey" available="true">
-      <name lang="ru">Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Catesigo 24л сірий (Catesigo-XS-Grey)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 24л серый (Catesigo-XS-Grey)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 24л сірий (Catesigo-XS-Grey)</name>
       <price>1227</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Catesigo 24л сірий (Catesigo-XS-Grey)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 24л серый (Catesigo-XS-Grey)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 24л сірий (Catesigo-XS-Grey)</description>
       <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-catesigo-24l-siryi-catesigo-xs-grey-53740805068195_+44f5f72f1c.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -6253,10 +6304,9 @@
       <param name="Висота" paramcode="110">45</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">18</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Catesigo 24л сірий (Catesigo-XS-Grey)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 24л сірий (Catesigo-XS-Grey)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -6267,13 +6317,13 @@
       <width>300</width>
     </offer>
     <offer id="15108-XS-Beige" available="true">
-      <name lang="ru">Рюкзак для ручной клади Everyday 16л бежевый (15108-XS-Beige)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Everyday 16л бежевий (15108-XS-Beige)</name>
+      <name lang="ru">Рюкзак для лоукоста 16л бежевый (15108-XS-Beige)</name>
+      <name lang="ua">Рюкзак для лоукосту 16л бежевий (15108-XS-Beige)</name>
       <price>2091</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Everyday 16л бежевый (15108-XS-Beige)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Everyday 16л бежевий (15108-XS-Beige)</description>
+      <description lang="ru">Рюкзак для лоукоста 16л бежевый (15108-XS-Beige)</description>
+      <description lang="ua">Рюкзак для лоукосту 16л бежевий (15108-XS-Beige)</description>
       <picture>https://sklad-valiz.com.ua/content/images/5/56216024821316_+13d32ecdd3.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/5/85006724603426_+b129f2b4d7.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/5/34850472203469_+45ffa654dc.jpg</picture>
@@ -6294,10 +6344,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">11</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Everyday 16л бежевий (15108-XS-Beige)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 16л бежевий (15108-XS-Beige)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -6308,13 +6357,13 @@
       <width>300</width>
     </offer>
     <offer id="15108-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Everyday 16л черный (15108-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Everyday 16л чорний (15108-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 16л черный (15108-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 16л чорний (15108-XS-Black)</name>
       <price>2091</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Everyday 16л черный (15108-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Everyday 16л чорний (15108-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 16л черный (15108-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 16л чорний (15108-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/6/38420386903958_+8c4645db63.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/6/88968595940615_+3439c34964.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/6/71612514325033_+59a451ef36.jpg</picture>
@@ -6335,10 +6384,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">11</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Everyday 16л чорний (15108-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 16л чорний (15108-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -6349,13 +6397,13 @@
       <width>300</width>
     </offer>
     <offer id="355-1-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Everyday 35л черный (355-1-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Everyday 35л чорний (355-1-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 35л черный (355-1-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 35л чорний (355-1-XS-Black)</name>
       <price>2164</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Everyday 35л черный (355-1-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Everyday 35л чорний (355-1-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 35л черный (355-1-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 35л чорний (355-1-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-everyday-35l-chornyi-355-1-xs-black-61294846465631_+cdb2c9557b.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
@@ -6370,10 +6418,9 @@
       <param name="Висота" paramcode="110">45</param>
       <param name="Ширина" paramcode="111">33</param>
       <param name="Довжина" paramcode="2470">13</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Everyday 35л чорний (355-1-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 35л чорний (355-1-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -6384,13 +6431,13 @@
       <width>330</width>
     </offer>
     <offer id="340-2-XS-Beige" available="true">
-      <name lang="ru">Рюкзак для ручной клади Everyday 32л бежевый (340-2-XS-Beige)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Everyday 32л бежевий (340-2-XS-Beige)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 32л бежевый (340-2-XS-Beige)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 32л бежевий (340-2-XS-Beige)</name>
       <price>2164</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Everyday 32л бежевый (340-2-XS-Beige)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Everyday 32л бежевий (340-2-XS-Beige)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 32л бежевый (340-2-XS-Beige)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 32л бежевий (340-2-XS-Beige)</description>
       <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-everyday-32l-bezhevyi-340-2-xs-beige-43192851845618_+a715b9b422.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
@@ -6405,10 +6452,9 @@
       <param name="Висота" paramcode="110">45</param>
       <param name="Ширина" paramcode="111">38</param>
       <param name="Довжина" paramcode="2470">19</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Everyday 32л бежевий (340-2-XS-Beige)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 32л бежевий (340-2-XS-Beige)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -6419,13 +6465,13 @@
       <width>380</width>
     </offer>
     <offer id="Bange-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Bange 37л черный (Bange-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Bange 37л чорний (Bange-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 37л черный (Bange-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 37л чорний (Bange-XS-Black)</name>
       <price>4291</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Bange 37л черный (Bange-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Bange 37л чорний (Bange-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 37л черный (Bange-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 37л чорний (Bange-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-bange-37l-chornyi-bange-xs-black-33710596412742_+4169f2edd5.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
@@ -6440,10 +6486,9 @@
       <param name="Висота" paramcode="110">47</param>
       <param name="Ширина" paramcode="111">31</param>
       <param name="Довжина" paramcode="2470">25</param>
-      <param name="Вага" paramcode="150">2</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Bange 37л чорний (Bange-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 37л чорний (Bange-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9312,13 +9357,13 @@
       <length>210</length>
     </offer>
     <offer id="Grant-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Grant 35л чорний (Grant-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 35л черный (Grant-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 35л чорний (Grant-XS-Black)</name>
       <price>1073</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Grant 35л чорний (Grant-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 35л черный (Grant-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 35л чорний (Grant-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-36523577611227_+1661ed63cb.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-25471440195556_+06b9f8dfaf.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-24865452520895_+c4a1aac499.jpg</picture>
@@ -9339,10 +9384,9 @@
       <param name="Висота" paramcode="110">50</param>
       <param name="Ширина" paramcode="111">35</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Grant 35л чорний (Grant-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 35л чорний (Grant-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9353,13 +9397,13 @@
       <width>350</width>
     </offer>
     <offer id="GoldBe-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади GoldBe 35л черный (GoldBe-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі GoldBe 35л чорний (GoldBe-XS-Black)</name>
+      <name lang="ru">Рюкзак для ручной клади 35л черный (GoldBe-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі 35л чорний (GoldBe-XS-Black)</name>
       <price>1365</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади GoldBe 35л черный (GoldBe-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі GoldBe 35л чорний (GoldBe-XS-Black)</description>
+      <description lang="ru">Рюкзак для ручной клади 35л черный (GoldBe-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі 35л чорний (GoldBe-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-54647558282665_+d016c700e4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-12871885865434_+dff670cff5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-97196485371497_+1482622974.jpg</picture>
@@ -9379,10 +9423,9 @@
       <param name="Висота" paramcode="110">50</param>
       <param name="Ширина" paramcode="111">35</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі GoldBe 35л чорний (GoldBe-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 35л чорний (GoldBe-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9393,13 +9436,13 @@
       <width>350</width>
     </offer>
     <offer id="GoldBe-XS-Khaki" available="true">
-      <name lang="ru">Рюкзак для ручной клади GoldBe 35л хаки (GoldBe-XS-Khaki)</name>
-      <name lang="ua">Рюкзак для ручної поклажі GoldBe 35л хакі (GoldBe-XS-Khaki)</name>
+      <name lang="ru">Рюкзак для ручной клади 35л хаки (GoldBe-XS-Khaki)</name>
+      <name lang="ua">Рюкзак для ручної поклажі 35л хакі (GoldBe-XS-Khaki)</name>
       <price>1365</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади GoldBe 35л хаки (GoldBe-XS-Khaki)</description>
-      <description lang="ua">Рюкзак для ручної поклажі GoldBe 35л хакі (GoldBe-XS-Khaki)</description>
+      <description lang="ru">Рюкзак для ручной клади 35л хаки (GoldBe-XS-Khaki)</description>
+      <description lang="ua">Рюкзак для ручної поклажі 35л хакі (GoldBe-XS-Khaki)</description>
       <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-85724824782452_+58caab5ad5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-33544073715799_+e495f67df8.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-25129362963807_+ba6e56cd1d.jpg</picture>
@@ -9419,10 +9462,9 @@
       <param name="Висота" paramcode="110">50</param>
       <param name="Ширина" paramcode="111">35</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі GoldBe 35л хакі (GoldBe-XS-Khaki)</param>
+      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 35л хакі (GoldBe-XS-Khaki)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9433,13 +9475,13 @@
       <width>350</width>
     </offer>
     <offer id="Ozuko-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Ozuko 35л черный (Ozuko-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Ozuko 35л чорний (Ozuko-XS-Black)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 35л черный (Ozuko-XS-Black)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 35л чорний (Ozuko-XS-Black)</name>
       <price>4545</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Ozuko 35л черный (Ozuko-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Ozuko 35л чорний (Ozuko-XS-Black)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 35л черный (Ozuko-XS-Black)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 35л чорний (Ozuko-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/38/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-chornyi-ozuko-xs-black-81701914944899_+36823fe118.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/38/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-chornyi-ozuko-xs-black-74715494962543_+34737f1569.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/38/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-chornyi-ozuko-xs-black-80029784741929_+ad157c2fe8.jpg</picture>
@@ -9460,10 +9502,9 @@
       <param name="Висота" paramcode="110">51</param>
       <param name="Ширина" paramcode="111">33</param>
       <param name="Довжина" paramcode="2470">21</param>
-      <param name="Вага" paramcode="150">2</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Ozuko 35л чорний (Ozuko-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 35л чорний (Ozuko-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9474,13 +9515,13 @@
       <width>330</width>
     </offer>
     <offer id="Ozuko-XS-Grey" available="true">
-      <name lang="ru">Рюкзак для ручной клади Ozuko 35л серый (Ozuko-XS-Grey)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Ozuko 35л сірий (Ozuko-XS-Grey)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 35л серый (Ozuko-XS-Grey)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 35л сірий (Ozuko-XS-Grey)</name>
       <price>4545</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Ozuko 35л серый (Ozuko-XS-Grey)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Ozuko 35л сірий (Ozuko-XS-Grey)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 35л серый (Ozuko-XS-Grey)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 35л сірий (Ozuko-XS-Grey)</description>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-siryi-ozuko-xs-grey-75502976128152_+b09ae6e4c9.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-siryi-ozuko-xs-grey-96996311163917_+b695c2bfc9.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-siryi-ozuko-xs-grey-99985723808779_+0c35987a55.jpg</picture>
@@ -9501,10 +9542,9 @@
       <param name="Висота" paramcode="110">51</param>
       <param name="Ширина" paramcode="111">33</param>
       <param name="Довжина" paramcode="2470">21</param>
-      <param name="Вага" paramcode="150">2</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Ozuko 35л сірий (Ozuko-XS-Grey)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 35л сірий (Ozuko-XS-Grey)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9515,13 +9555,13 @@
       <width>330</width>
     </offer>
     <offer id="809-1-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади 809-1 23л черный (809-1-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі 809-1 23л чорний (809-1-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 23л черный (809-1-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 23л чорний (809-1-XS-Black)</name>
       <price>2710</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади 809-1 23л черный (809-1-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі 809-1 23л чорний (809-1-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 23л черный (809-1-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 23л чорний (809-1-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-809-1-23l-chornyi-809-1-xs-black-64659371609037_+be652815e5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-809-1-23l-chornyi-809-1-xs-black-69799138929869_+b4d87293c7.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-809-1-23l-chornyi-809-1-xs-black-24739558790913_+329ef33213.jpg</picture>
@@ -9542,10 +9582,9 @@
       <param name="Висота" paramcode="110">45</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 809-1 23л чорний (809-1-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 23л чорний (809-1-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -9962,13 +10001,13 @@
       <length>300</length>
     </offer>
     <offer id="Ryder-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Ryder 20л черный (Ryder-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Ryder 20л чорний (Ryder-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 20л черный (Ryder-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 20л чорний (Ryder-XS-Black)</name>
       <price>2545</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Ryder 20л черный (Ryder-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Ryder 20л чорний (Ryder-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 20л черный (Ryder-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 20л чорний (Ryder-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-63431343269388_+d43e78e20f.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-79159094698446_+970965737e.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-26816482756912_+fb5c42375a.jpg</picture>
@@ -9988,10 +10027,9 @@
       <param name="Висота" paramcode="110">39</param>
       <param name="Ширина" paramcode="111">28</param>
       <param name="Довжина" paramcode="2470">12</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Ryder 20л чорний (Ryder-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 20л чорний (Ryder-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10002,13 +10040,13 @@
       <width>280</width>
     </offer>
     <offer id="Eliot-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Eliot 22л черный (Eliot-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Eliot 22л чорний (Eliot-XS-Black)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 22л черный (Eliot-XS-Black)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 22л чорний (Eliot-XS-Black)</name>
       <price>2360</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Eliot 22л черный (Eliot-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Eliot 22л чорний (Eliot-XS-Black)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 22л черный (Eliot-XS-Black)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 22л чорний (Eliot-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-63344273226417_+28d744e220.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-91256162644097_+c5a0804d21.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-15297950114247_+a6ee71899a.jpg</picture>
@@ -10028,10 +10066,9 @@
       <param name="Висота" paramcode="110">42</param>
       <param name="Ширина" paramcode="111">27</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Eliot 22л чорний (Eliot-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 22л чорний (Eliot-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10042,13 +10079,13 @@
       <width>270</width>
     </offer>
     <offer id="Techno-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Techno 18л черный (Techno-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Techno 18л чорний (Techno-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 18л черный (Techno-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 18л чорний (Techno-XS-Black)</name>
       <price>1995</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Techno 18л черный (Techno-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Techno 18л чорний (Techno-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 18л черный (Techno-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 18л чорний (Techno-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-34166685479672_+f185019937.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-63061343985344_+4cb9ca5146.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-83301360404724_+31c0154d4a.jpg</picture>
@@ -10068,10 +10105,9 @@
       <param name="Висота" paramcode="110">34</param>
       <param name="Ширина" paramcode="111">27</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Techno 18л чорний (Techno-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 18л чорний (Techno-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10082,13 +10118,13 @@
       <width>270</width>
     </offer>
     <offer id="Explorer-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Explorer 20л черный (Explorer-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Explorer 20л чорний (Explorer-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 20л черный (Explorer-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 20л чорний (Explorer-XS-Black)</name>
       <price>2180</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Explorer 20л черный (Explorer-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Explorer 20л чорний (Explorer-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 20л черный (Explorer-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 20л чорний (Explorer-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-76244065813583_+33c0af4f3e.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-90562346056023_+87a13985b1.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-48302312544506_+b9a2d24b70.jpg</picture>
@@ -10108,10 +10144,9 @@
       <param name="Висота" paramcode="110">38</param>
       <param name="Ширина" paramcode="111">26</param>
       <param name="Довжина" paramcode="2470">16</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Explorer 20л чорний (Explorer-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 20л чорний (Explorer-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10122,13 +10157,13 @@
       <width>260</width>
     </offer>
     <offer id="Skin-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Skin 26л черный (Skin-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Skin 26л чорний (Skin-XS-Black)</name>
+      <name lang="ru">Рюкзак для ручной клади 26л черный (Skin-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі 26л чорний (Skin-XS-Black)</name>
       <price>1905</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Skin 26л черный (Skin-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Skin 26л чорний (Skin-XS-Black)</description>
+      <description lang="ru">Рюкзак для ручной клади 26л черный (Skin-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі 26л чорний (Skin-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-41786377286641_+6bd960e5ed.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-65091594900257_+f87092d415.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-74953790645655_+089e3c5370.jpg</picture>
@@ -10148,10 +10183,9 @@
       <param name="Висота" paramcode="110">42</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Skin 26л чорний (Skin-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 26л чорний (Skin-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10162,13 +10196,13 @@
       <width>300</width>
     </offer>
     <offer id="Compact-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Compact 19л черный (Compact-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Compact 19л чорний (Compact-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 19л черный (Compact-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 19л чорний (Compact-XS-Black)</name>
       <price>1635</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Compact 19л черный (Compact-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Compact 19л чорний (Compact-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 19л черный (Compact-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 19л чорний (Compact-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-70532436912957_+0c4ea08e8a.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-39528623318903_+5c76b7039b.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-33958489283092_+252dc09e93.jpg</picture>
@@ -10188,10 +10222,9 @@
       <param name="Висота" paramcode="110">38</param>
       <param name="Ширина" paramcode="111">27</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Compact 19л чорний (Compact-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 19л чорний (Compact-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10202,13 +10235,13 @@
       <width>270</width>
     </offer>
     <offer id="T-B9121-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади T-B9121 11л черный (T-B9121-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі T-B9121 11л чорний (T-B9121-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 11л черный (T-B9121-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 11л чорний (T-B9121-XS-Black)</name>
       <price>3440</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади T-B9121 11л черный (T-B9121-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі T-B9121 11л чорний (T-B9121-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 11л черный (T-B9121-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 11л чорний (T-B9121-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-79550133271818_+b823ee0fdd.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-54578589267347_+eba28ebd96.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-43671825088666_+e73a687dfd.jpg</picture>
@@ -10228,10 +10261,9 @@
       <param name="Висота" paramcode="110">43</param>
       <param name="Ширина" paramcode="111">31</param>
       <param name="Довжина" paramcode="2470">9</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі T-B9121 11л чорний (T-B9121-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 11л чорний (T-B9121-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10242,13 +10274,13 @@
       <width>310</width>
     </offer>
     <offer id="T-B3893-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади T-B3893 21л черный (T-B3893-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі T-B3893 21л чорний (T-B3893-XS-Black)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 21л черный (T-B3893-XS-Black)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 21л чорний (T-B3893-XS-Black)</name>
       <price>2540</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади T-B3893 21л черный (T-B3893-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі T-B3893 21л чорний (T-B3893-XS-Black)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 21л черный (T-B3893-XS-Black)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 21л чорний (T-B3893-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-86203587806043_+616eef5f75.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-61399432428466_+d7af5f424b.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-42493065177848_+120489f691.jpg</picture>
@@ -10268,10 +10300,9 @@
       <param name="Висота" paramcode="110">46</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі T-B3893 21л чорний (T-B3893-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 21л чорний (T-B3893-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10282,13 +10313,13 @@
       <width>300</width>
     </offer>
     <offer id="T-B3331A-XS-Grey" available="true">
-      <name lang="ru">Рюкзак для ручной клади T-B3331A 16л серый (T-B3331A-XS-Grey)</name>
-      <name lang="ua">Рюкзак для ручної поклажі T-B3331A 16л сірий (T-B3331A-XS-Grey)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 16л серый (T-B3331A-XS-Grey)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 16л сірий (T-B3331A-XS-Grey)</name>
       <price>3150</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади T-B3331A 16л серый (T-B3331A-XS-Grey)</description>
-      <description lang="ua">Рюкзак для ручної поклажі T-B3331A 16л сірий (T-B3331A-XS-Grey)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 16л серый (T-B3331A-XS-Grey)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 16л сірий (T-B3331A-XS-Grey)</description>
       <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-59213926397521_+c98ea1cc78.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-58930168389100_+4345de2243.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-60615591889669_+44e56611aa.jpg</picture>
@@ -10308,10 +10339,9 @@
       <param name="Висота" paramcode="110">42</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">13</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі T-B3331A 16л сірий (T-B3331A-XS-Grey)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 16л сірий (T-B3331A-XS-Grey)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -10322,13 +10352,13 @@
       <width>300</width>
     </offer>
     <offer id="T-B3905-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади T-B3905 30л черный (T-B3905-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі T-B3905 30л чорний (T-B3905-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 30л черный (T-B3905-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 30л чорний (T-B3905-XS-Black)</name>
       <price>3600</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади T-B3905 30л черный (T-B3905-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі T-B3905 30л чорний (T-B3905-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 30л черный (T-B3905-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 30л чорний (T-B3905-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-50263012567844_+d1f732ddc4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-81073236027829_+a49e263b47.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-23982207797416_+51517b313e.jpg</picture>
@@ -10348,10 +10378,9 @@
       <param name="Висота" paramcode="110">50</param>
       <param name="Ширина" paramcode="111">34</param>
       <param name="Довжина" paramcode="2470">22</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі T-B3905 30л чорний (T-B3905-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 30л чорний (T-B3905-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -11103,13 +11132,13 @@
       <weight>1000</weight>
     </offer>
     <offer id="090-Blue" available="true">
-      <name lang="ru">Рюкзак-сумка для ручной клади 24л синий (090-Blue)</name>
-      <name lang="ua">Рюкзак-сумка для ручної поклажі 24л синій (090-Blue)</name>
+      <name lang="ru">Рюкзак-сумка с отделением для ноутбука 24л синий (090-Blue)</name>
+      <name lang="ua">Рюкзак-сумка з відділенням для ноутбуку 24л синій (090-Blue)</name>
       <price>1820</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак-сумка для ручной клади 24л синий (090-Blue)</description>
-      <description lang="ua">Рюкзак-сумка для ручної поклажі 24л синій (090-Blue)</description>
+      <description lang="ru">Рюкзак-сумка с отделением для ноутбука 24л синий (090-Blue)</description>
+      <description lang="ua">Рюкзак-сумка з відділенням для ноутбуку 24л синій (090-Blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-43479012526296_+ad45ad3da1.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-31606476513914_+d9db394554.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-72713757012372_+bf7d7d4afa.jpg</picture>
@@ -11130,10 +11159,9 @@
       <param name="Висота" paramcode="110">43</param>
       <param name="Ширина" paramcode="111">31</param>
       <param name="Довжина" paramcode="2470">18</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак-сумка для ручної поклажі 24л синій (090-Blue)</param>
+      <param name="Опис" paramcode="description">Рюкзак-сумка з відділенням для ноутбуку 24л синій (090-Blue)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -11144,13 +11172,13 @@
       <width>310</width>
     </offer>
     <offer id="090-Grey" available="true">
-      <name lang="ru">Рюкзак-сумка для ручной клади 24л серый (090-Grey)</name>
-      <name lang="ua">Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</name>
+      <name lang="ru">Рюкзак-сумка с отделением для ноутбука 24л серый (090-Grey)</name>
+      <name lang="ua">Рюкзак-сумка з відділенням для ноутбуку 24л сірий (090-Grey)</name>
       <price>1820</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак-сумка для ручной клади 24л серый (090-Grey)</description>
-      <description lang="ua">Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</description>
+      <description lang="ru">Рюкзак-сумка с отделением для ноутбука 24л серый (090-Grey)</description>
+      <description lang="ua">Рюкзак-сумка з відділенням для ноутбуку 24л сірий (090-Grey)</description>
       <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-41045054410974_+f4aa537a14.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-38625165720926_+e875d6caa0.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-69605283205255_+de73bfa925.jpg</picture>
@@ -11171,10 +11199,9 @@
       <param name="Висота" paramcode="110">43</param>
       <param name="Ширина" paramcode="111">31</param>
       <param name="Довжина" paramcode="2470">18</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</param>
+      <param name="Опис" paramcode="description">Рюкзак-сумка з відділенням для ноутбуку 24л сірий (090-Grey)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -16504,14 +16531,14 @@
       <weight>1000</weight>
     </offer>
     <offer id="22103-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 24л черный (22103-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 24л чорний (22103-XS-Black)</name>
       <price>3270</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <description lang="ru">Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 24л черный (22103-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 24л чорний (22103-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/28/28723299436904_+bcc45f221d.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/28/63434251859287_+997e0bedec.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/28/76542870178870_+fdf5fffc1c.png</picture>
@@ -16531,10 +16558,9 @@
       <param name="Висота" paramcode="110">53</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">2</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 24л чорний (22103-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -16546,13 +16572,13 @@
       <width>300</width>
     </offer>
     <offer id="801-1-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Backpack 20л черный (801-1-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Backpack 20л чорний (801-1-XS-Black)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 20л черный (801-1-XS-Black)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 20л чорний (801-1-XS-Black)</name>
       <price>1300</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Backpack 20л черный (801-1-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Backpack 20л чорний (801-1-XS-Black)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 20л черный (801-1-XS-Black)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 20л чорний (801-1-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/29/51695123332548_+b86a29b1e6.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/29/84796498617870_+f696c5712d.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/29/94118944527402_+9f2efd342a.png</picture>
@@ -16572,10 +16598,9 @@
       <param name="Висота" paramcode="110">44</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">15</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Backpack 20л чорний (801-1-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 20л чорний (801-1-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -16586,13 +16611,13 @@
       <width>300</width>
     </offer>
     <offer id="359-1-XS-DarkBlue" available="false">
-      <name lang="ru">Рюкзак для ручной клади Backpack 17л темно-синий (359-1-XS-DarkBlue)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Backpack 17л темно-синій (359-1-XS-DarkBlue)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 17л темно-синий (359-1-XS-DarkBlue)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 17л темно-синій (359-1-XS-DarkBlue)</name>
       <price>1800</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Backpack 17л темно-синий (359-1-XS-DarkBlue)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Backpack 17л темно-синій (359-1-XS-DarkBlue)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 17л темно-синий (359-1-XS-DarkBlue)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 17л темно-синій (359-1-XS-DarkBlue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/31/81320242921614_+03506c4fb1.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/31/92431511063017_+1f0f2f859e.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/31/87528143708683_+c014754d56.png</picture>
@@ -16612,10 +16637,9 @@
       <param name="Висота" paramcode="110">41</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">14</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Backpack 17л темно-синій (359-1-XS-DarkBlue)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 17л темно-синій (359-1-XS-DarkBlue)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -16626,13 +16650,13 @@
       <width>300</width>
     </offer>
     <offer id="22124-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Bange 22л черный (22124-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Bange 22л чорний (22124-XS-Black)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 22л черный (22124-XS-Black)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 22л чорний (22124-XS-Black)</name>
       <price>2050</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Bange 22л черный (22124-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Bange 22л чорний (22124-XS-Black)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 22л черный (22124-XS-Black)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 22л чорний (22124-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/32/11246547602298_+bd6ca9b285.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/32/85154743373032_+8f3e641a24.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/32/56241539005173_+5d4b438005.png</picture>
@@ -16652,10 +16676,9 @@
       <param name="Висота" paramcode="110">45</param>
       <param name="Ширина" paramcode="111">32</param>
       <param name="Довжина" paramcode="2470">15</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Bange 22л чорний (22124-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 22л чорний (22124-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -17977,60 +18000,6 @@
       <param name="Кількість коліс" paramcode="4130">4</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <param name="Опис" paramcode="description">Валіза Wings 19168 велика 97 л зелена (19168-L-Dark-green)</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Вага упаковки" paramcode="weight">1000</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-      <param name="Бренд" paramcode="brand" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <weight>1000</weight>
-      <height>750</height>
-      <width>500</width>
-      <length>300</length>
-    </offer>
-    <offer id="19168-L-Champagne" available="false">
-      <name lang="ru">Чемодан Wings 19168 большой 97 л шампань (19168-L-Champagne)</name>
-      <name lang="ua">Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</name>
-      <price>2340</price>
-      <price_old>2600</price_old>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <description lang="ru">Чемодан Wings 19168 большой 97 л шампань (19168-L-Champagne)</description>
-      <description lang="ua">Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-27084473747341_+c0921c941b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-26015135934745_+16162bd42d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-30135668488159_+29bd04a1c6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-31856951778147_+c6111c51d5.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-92688725121353_+335268e30a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-79046577255166_+acf6f5c8d9.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne-77650333096500_+bbe7aa4147.jpg</picture>
-      <param name="Базовий колір" paramcode="12097" valuecode="19065f9e37ca53ebf067c60a7881edcc">золото</param>
-      <param name="Колір виробника" paramcode="78" valuecode="xlt7rztrsxh5a4sc">шампань</param>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
-      <param name="Об'єм" paramcode="104">97</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Вікова група" paramcode="2868" valuecode="09857ba2f81d8a7fd4370e2f2114abc6">для дорослих</param>
-      <param name="Особливості" paramcode="2860">телескопічна</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Висота" paramcode="110">75</param>
-      <param name="Ширина" paramcode="111">50</param>
-      <param name="Глибина" paramcode="112">30</param>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Вага" paramcode="10301">4</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Корпус" paramcode="16677" valuecode="7538c2fd4cb361d02b463bc26ca1d35f">твердий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Габаритний розмір" paramcode="1476">49x29x74</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -21762,13 +21731,13 @@
       <length>210</length>
     </offer>
     <offer id="89019-XS-Beige" available="false">
-      <name lang="ru">Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Leadfas бежевий (89019-XS-Beige)</name>
+      <name lang="ru">Рюкзак для лоукоста бежевый (89019-XS-Beige)</name>
+      <name lang="ua">Рюкзак для лоукосту бежевий (89019-XS-Beige)</name>
       <price>1473</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Leadfas бежевий (89019-XS-Beige)</description>
+      <description lang="ru">Рюкзак для лоукоста бежевый (89019-XS-Beige)</description>
+      <description lang="ua">Рюкзак для лоукосту бежевий (89019-XS-Beige)</description>
       <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-leadfas-bezhevyi-89019-xs-beige-51220440447874_+03ad689589.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
@@ -21776,13 +21745,14 @@
       <param name="Вид" paramcode="51" valuecode="la8khnywvscqhwse">рюкзак</param>
       <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
       <param name="Тип" paramcode="50" valuecode="sp4oz32gowpkmxvj">рюкзак</param>
+      <param name="Матеріал" paramcode="4326" valuecode="65875220c155f64d02e00130116c2d76">поліестер</param>
+      <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Leadfas бежевий (89019-XS-Beige)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту бежевий (89019-XS-Beige)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -21793,13 +21763,13 @@
       <width>300</width>
     </offer>
     <offer id="89019-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Leadfas чорний (89019-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста черный (89019-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту чорний (89019-XS-Black)</name>
       <price>1473</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Leadfas чорний (89019-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста черный (89019-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту чорний (89019-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-leadfas-chornyi-89019-xs-black-60528845063481_+9a0a5ab2ba.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
@@ -21807,13 +21777,14 @@
       <param name="Вид" paramcode="51" valuecode="la8khnywvscqhwse">рюкзак</param>
       <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
       <param name="Тип" paramcode="50" valuecode="sp4oz32gowpkmxvj">рюкзак</param>
+      <param name="Матеріал" paramcode="4326" valuecode="65875220c155f64d02e00130116c2d76">поліестер</param>
+      <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Leadfas чорний (89019-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту чорний (89019-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -21824,13 +21795,13 @@
       <width>300</width>
     </offer>
     <offer id="Catesigo-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name>
+      <name lang="ru">Рюкзак с отделением для ноутбука 34л черный (Catesigo-XS-Black)</name>
+      <name lang="ua">Рюкзак з відділенням для ноутбуку 34л чорний (Catesigo-XS-Black)</name>
       <price>1227</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</description>
+      <description lang="ru">Рюкзак с отделением для ноутбука 34л черный (Catesigo-XS-Black)</description>
+      <description lang="ua">Рюкзак з відділенням для ноутбуку 34л чорний (Catesigo-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
@@ -21845,10 +21816,9 @@
       <param name="Висота" paramcode="110">48</param>
       <param name="Ширина" paramcode="111">35</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак з відділенням для ноутбуку 34л чорний (Catesigo-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -21897,13 +21867,13 @@
       <weight>1000</weight>
     </offer>
     <offer id="JBBP336-XS-Blue" available="false">
-      <name lang="ru">Рюкзак для ручной клади Bordlite 20л синий (JBBP336-XS-Blue)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Bordlite 20л синій (JBBP336-XS-Blue)</name>
+      <name lang="ru">Рюкзак для лоукоста 20л синий (JBBP336-XS-Blue)</name>
+      <name lang="ua">Рюкзак для лоукосту 20л синій (JBBP336-XS-Blue)</name>
       <price>1091</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Bordlite 20л синий (JBBP336-XS-Blue)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Bordlite 20л синій (JBBP336-XS-Blue)</description>
+      <description lang="ru">Рюкзак для лоукоста 20л синий (JBBP336-XS-Blue)</description>
+      <description lang="ua">Рюкзак для лоукосту 20л синій (JBBP336-XS-Blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/22/17106548340347_+b05e4a0688.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/22/98727106693288_+05f2a62f7f.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/22/49523836630385_+5549a91353.jpg</picture>
@@ -21923,10 +21893,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="gbr">Велика Британія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Bordlite 20л синій (JBBP336-XS-Blue)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 20л синій (JBBP336-XS-Blue)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -21937,13 +21906,13 @@
       <width>300</width>
     </offer>
     <offer id="JBBP336-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Bordlite 20л черный (JBBP336-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP336-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 20л черный (JBBP336-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 20л чорний (JBBP336-XS-Black)</name>
       <price>1091</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Bordlite 20л черный (JBBP336-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP336-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 20л черный (JBBP336-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 20л чорний (JBBP336-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/23/50693464946213_+4c9956196b.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/23/32000379453991_+eb48042151.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/23/58577127250027_+346331a16f.jpg</picture>
@@ -21963,10 +21932,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="gbr">Велика Британія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP336-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 20л чорний (JBBP336-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -22427,13 +22395,13 @@
       <weight>1000</weight>
     </offer>
     <offer id="JBBP285-XS-Blue" available="false">
-      <name lang="ru">Рюкзак для ручной клади Bordlite 20л синий (JBBP285-XS-Blue)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Bordlite 20л синій (JBBP285-XS-Blue)</name>
+      <name lang="ru">Рюкзак для лоукоста 20л синий (JBBP285-XS-Blue)</name>
+      <name lang="ua">Рюкзак для лоукосту 20л синій (JBBP285-XS-Blue)</name>
       <price>875</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Bordlite 20л синий (JBBP285-XS-Blue)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Bordlite 20л синій (JBBP285-XS-Blue)</description>
+      <description lang="ru">Рюкзак для лоукоста 20л синий (JBBP285-XS-Blue)</description>
+      <description lang="ua">Рюкзак для лоукосту 20л синій (JBBP285-XS-Blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-35581725034520_+bec050ed76.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-22540455241500_+94d517d4d4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-21585306238375_+4a48301a3b.jpg</picture>
@@ -22454,10 +22422,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="gbr">Велика Британія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Bordlite 20л синій (JBBP285-XS-Blue)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 20л синій (JBBP285-XS-Blue)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -22468,13 +22435,13 @@
       <width>300</width>
     </offer>
     <offer id="JBBP285-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Bordlite 20л черный (JBBP285-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP285-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 20л черный (JBBP285-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 20л чорний (JBBP285-XS-Black)</name>
       <price>875</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Bordlite 20л черный (JBBP285-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP285-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 20л черный (JBBP285-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 20л чорний (JBBP285-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-61968308440652_+d0bf933cfb.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-82988613065670_+a6e860ec7b.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-66616487579158_+eb0aee70df.jpg</picture>
@@ -22495,10 +22462,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="gbr">Велика Британія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP285-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 20л чорний (JBBP285-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -22509,13 +22475,13 @@
       <width>300</width>
     </offer>
     <offer id="Grant-XS-Grey" available="false">
-      <name lang="ru">Рюкзак для ручной клади Grant 35л серый (Grant-XS-Grey)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Grant 35л сірий (Grant-XS-Grey)</name>
+      <name lang="ru">Рюкзак с креплением к чемодану 35л серый (Grant-XS-Grey)</name>
+      <name lang="ua">Рюкзак з кріпленням до валізи 35л сірий (Grant-XS-Grey)</name>
       <price>1073</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Grant 35л серый (Grant-XS-Grey)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Grant 35л сірий (Grant-XS-Grey)</description>
+      <description lang="ru">Рюкзак с креплением к чемодану 35л серый (Grant-XS-Grey)</description>
+      <description lang="ua">Рюкзак з кріпленням до валізи 35л сірий (Grant-XS-Grey)</description>
       <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-73596287183473_+7fbe026956.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-75632785035244_+815afcccb4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-86778259729996_+0e368fa354.jpg</picture>
@@ -22536,10 +22502,9 @@
       <param name="Висота" paramcode="110">50</param>
       <param name="Ширина" paramcode="111">35</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Grant 35л сірий (Grant-XS-Grey)</param>
+      <param name="Опис" paramcode="description">Рюкзак з кріпленням до валізи 35л сірий (Grant-XS-Grey)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -30110,14 +30075,14 @@
       <length>200</length>
     </offer>
     <offer id="HIMAWARI-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 17л черный (HIMAWARI-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 17л чорний (HIMAWARI-XS-Black)</name>
       <price>1495</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
-      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 17л черный (HIMAWARI-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 17л чорний (HIMAWARI-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-59424941072692_+eb4c35c97d.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-18652926031514_+7070b81e47.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-24860922569716_+7af6052173.jpg</picture>
@@ -30138,10 +30103,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">27</param>
       <param name="Довжина" paramcode="2470">16</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 17л чорний (HIMAWARI-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -30153,13 +30117,13 @@
       <width>270</width>
     </offer>
     <offer id="403020-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади 403020 24л черный (403020-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі 403020 24л чорний (403020-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 24л черный (403020-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 24л чорний (403020-XS-Black)</name>
       <price>1700</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади 403020 24л черный (403020-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі 403020 24л чорний (403020-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 24л черный (403020-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 24л чорний (403020-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/38/riukzak-dlia-ruchnoi-poklazhi-403020-24l-chornyi-403020-xs-black-60067536935924_+79a7acd662.jpg</picture>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
@@ -30174,10 +30138,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">30</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 403020 24л чорний (403020-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 24л чорний (403020-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -30188,14 +30151,14 @@
       <width>300</width>
     </offer>
     <offer id="HIMAWARI-XS-Gray-mint" available="true">
-      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name>
-      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name>
+      <name lang="ru">Рюкзак для лоукоста 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name>
+      <name lang="ua">Рюкзак для лоукосту 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name>
       <price>1495</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
-      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description>
-      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</description>
+      <description lang="ru">Рюкзак для лоукоста 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description>
+      <description lang="ua">Рюкзак для лоукосту 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</description>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-65888016525829_+0e8407df02.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-22621539249153_+48be7201ee.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-44320782054616_+5cacc0db0a.jpg</picture>
@@ -30215,10 +30178,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">27</param>
       <param name="Довжина" paramcode="2470">16</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -30230,14 +30192,14 @@
       <width>270</width>
     </offer>
     <offer id="HIMAWARI-XS-Blue-Beige" available="true">
-      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</name>
-      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</name>
+      <name lang="ru">Рюкзак для лоукоста 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</name>
+      <name lang="ua">Рюкзак для лоукосту 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</name>
       <price>1495</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
-      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</description>
-      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</description>
+      <description lang="ru">Рюкзак для лоукоста 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</description>
+      <description lang="ua">Рюкзак для лоукосту 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</description>
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-blakytno-bezhevyi-himawari-xs-blue-beige-69265180161164_+04773828b5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-blakytno-bezhevyi-himawari-xs-blue-beige-68683783815432_+0ca01255eb.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-blakytno-bezhevyi-himawari-xs-blue-beige-34198626924776_+490bbb93ab.jpg</picture>
@@ -30254,10 +30216,9 @@
       <param name="Висота" paramcode="110">39</param>
       <param name="Ширина" paramcode="111">25</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -30269,14 +30230,14 @@
       <width>250</width>
     </offer>
     <offer id="HIMAWARI-XS-Beige" available="true">
-      <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л бежевый (HIMAWARI-XS-Beige)</name>
-      <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name>
+      <name lang="ru">Рюкзак для лоукоста 17л бежевый (HIMAWARI-XS-Beige)</name>
+      <name lang="ua">Рюкзак для лоукосту 17л бежевий (HIMAWARI-XS-Beige)</name>
       <price>1495</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
       <vendor code="18a78cd2c2a54e6098c6d71d04117011">Himawari</vendor>
-      <description lang="ru">Рюкзак для ручной клади HIMAWARI 17л бежевый (HIMAWARI-XS-Beige)</description>
-      <description lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</description>
+      <description lang="ru">Рюкзак для лоукоста 17л бежевый (HIMAWARI-XS-Beige)</description>
+      <description lang="ua">Рюкзак для лоукосту 17л бежевий (HIMAWARI-XS-Beige)</description>
       <picture>https://sklad-valiz.com.ua/content/images/41/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-bezhevyi-himawari-xs-beige-46619465836328_+d1163af5e5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/41/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-bezhevyi-himawari-xs-beige-79236156343268_+6ddd8175ba.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/41/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-bezhevyi-himawari-xs-beige-85246459068993_+6c56a2fe50.jpg</picture>
@@ -30293,10 +30254,9 @@
       <param name="Висота" paramcode="110">39</param>
       <param name="Ширина" paramcode="111">25</param>
       <param name="Довжина" paramcode="2470">17</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="jpn">Японія</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 17л бежевий (HIMAWARI-XS-Beige)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
@@ -30307,85 +30267,14 @@
       <height>390</height>
       <width>250</width>
     </offer>
-    <offer id="402520-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади 402520 20л черный (402520-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі 402520 20л чорний (402520-XS-Black)</name>
-      <price>2200</price>
-      <category code="1598">Міські рюкзаки</category>
-      <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади 402520 20л черный (402520-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі 402520 20л чорний (402520-XS-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/42/riukzak-dlia-ruchnoi-poklazhi-402520-20l-chornyi-402520-xs-black-81286771717092_+dc8da9d43a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/42/riukzak-dlia-ruchnoi-poklazhi-402520-20l-chornyi-402520-xs-black-18291390248004_+82be364a2c.jpg</picture>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Вид" paramcode="4699" valuecode="f61ed5486b5460f42cd060d856882c68">міський</param>
-      <param name="Вид" paramcode="51" valuecode="la8khnywvscqhwse">рюкзак</param>
-      <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-      <param name="Тип" paramcode="50" valuecode="sp4oz32gowpkmxvj">рюкзак</param>
-      <param name="Матеріал" paramcode="4326" valuecode="9d698900cd7fadddaab47dab597220c3">нейлон</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51348e">поліамід</param>
-      <param name="Об'єм" paramcode="104">20</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Висота" paramcode="110">40</param>
-      <param name="Ширина" paramcode="111">20</param>
-      <param name="Довжина" paramcode="2470">25</param>
-      <param name="Вага" paramcode="150">1</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 402520 20л чорний (402520-XS-Black)</param>
-      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Вага упаковки" paramcode="weight">1000</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-      <weight>1000</weight>
-      <height>400</height>
-      <width>200</width>
-    </offer>
-    <offer id="4522-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади 4522 26л черный (4522-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі 4522 26л чорний (4522-XS-Black)</name>
-      <price>2500</price>
-      <category code="1598">Міські рюкзаки</category>
-      <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади 4522 26л черный (4522-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі 4522 26л чорний (4522-XS-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/44/riukzak-dlia-ruchnoi-poklazhi-4522-26l-khaki-4522-xs-khaki-62625080556002_+a229020a5c.jpg</picture>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Вид" paramcode="4699" valuecode="f61ed5486b5460f42cd060d856882c68">міський</param>
-      <param name="Вид" paramcode="51" valuecode="la8khnywvscqhwse">рюкзак</param>
-      <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-      <param name="Тип" paramcode="50" valuecode="sp4oz32gowpkmxvj">рюкзак</param>
-      <param name="Матеріал" paramcode="4326" valuecode="f41c1546e65a5ec04d75d09bdc190d5f">оксфорд</param>
-      <param name="Матеріал" paramcode="52" valuecode="xfaly5aexpxbkhd3">текстиль</param>
-      <param name="Об'єм" paramcode="104">26</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Висота" paramcode="110">44</param>
-      <param name="Ширина" paramcode="111">30</param>
-      <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі 4522 26л чорний (4522-XS-Black)</param>
-      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Вага упаковки" paramcode="weight">1000</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-      <weight>1000</weight>
-      <height>440</height>
-      <width>300</width>
-    </offer>
     <offer id="Leon-XS-Black" available="false">
-      <name lang="ru">Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</name>
+      <name lang="ru">Рюкзак для лоукоста 24л черный (Leon-XS-Black)</name>
+      <name lang="ua">Рюкзак для лоукосту 24л чорний (Leon-XS-Black)</name>
       <price>2700</price>
       <category code="1598">Міські рюкзаки</category>
       <attribute_set code="1598">Міські рюкзаки</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</description>
+      <description lang="ru">Рюкзак для лоукоста 24л черный (Leon-XS-Black)</description>
+      <description lang="ua">Рюкзак для лоукосту 24л чорний (Leon-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-98875377078264_+2d00d57b14.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-19218923968229_+4732abc8ae.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-19433911466491_+214ca0201c.jpg</picture>
@@ -30404,10 +30293,9 @@
       <param name="Висота" paramcode="110">40</param>
       <param name="Ширина" paramcode="111">28</param>
       <param name="Довжина" paramcode="2470">20</param>
-      <param name="Вага" paramcode="150">1</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Опис" paramcode="description">Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</param>
+      <param name="Опис" paramcode="description">Рюкзак для лоукосту 24л чорний (Leon-XS-Black)</param>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
       <param name="Вага упаковки" paramcode="weight">1000</param>
